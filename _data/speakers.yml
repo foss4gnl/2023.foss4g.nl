@@ -1,0 +1,357 @@
+# volgorde bepaald positie op foss4g.nl/speakers  
+# id: 1  nummer komt terug in _data/sessions.yml
+# name: "Voornaam"    worden hoofdletters
+# surname: "Achternaam"   worden hoofdletters
+# company: "Bedrijfsnaam"    wordt zichtbaar bij mouse-over van de foto
+# title: "beroepsmatige titel van de persoon"    komt in de pop-up achter de naam, voor de bedrijfsnaam
+# bio: "Korte beschrijving van de persoon"    komt in de pop-up in aparte alinea
+# thumbnailUrl: naam.jpg     verwijst naar afbeelding in _img/people
+# social:     linkjes worden toegevoegd in de pop-up onder de bio
+#   - {name: "linkedin", link: "https://www.linkedin.com/in/.../"}
+#   - {name: "twitter", link: "https://twitter.com/..."}
+# rockstar: true     geen idee??
+
+-
+  id: 1
+  name: "Amélie"
+  surname: "A Gagnon"
+  company: "UNESCO International Institute for Educational Planning"
+  title: "Senior Programme Specialist"
+  bio: "Amélie A Gagnon is bij UNESCO IIEP verantwoordelijk voor het onderbouwen van wereldwijde onderwijsplanning op basis van geografische data. Dit doet het instituut bewust met opensource-GIS. In haar keynote gaat zij in op het belang van open software in wereldwijde processen."
+  thumbnailUrl: amelie.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/amelieagagnon/"}
+    - {name: "twitter", link: "https://twitter.com/AmelieAGagnon"}
+  rockstar: true
+-
+  id: 2
+  name: "Kurt"
+  surname: "Menke"
+  company: "Septima"
+  title: "GIS consultant"
+  bio: "Kurt Menke is niet alleen GIS consultant bij Septima. De meeste mensen in Nederland kennen hem van de QGIS boeken die hij heeft geschreven, waaronder de Discover QGIS serie. Kurt houdt de eindkeynote over de nieuwste ontwikkelingen in QGIS, en verzorgt dinsdag een workshop over het inwinnen van gegevens met Input."
+  thumbnailUrl: kurt.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kurtmenke/"}
+    - {name: "twitter", link: "https://twitter.com/geomenke"}
+  rockstar: true
+-
+  id: 3
+  name: "Rob"
+  surname: "van Loon"
+  company: "RIVM"
+  title: ""
+  bio: ""
+  thumbnailUrl: RobvanLoon.jpg
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/rob_vl"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rvanloon"}
+  rockstar: true
+- 
+  id: 4
+  name: "Hans"
+  surname: "van der Kwast"
+  company: "IHE Delft"
+  title: ""
+  bio: "Onderwijs en capaciteits ontwikkeling voor de water sector in ontwikkelingslanden op het gebied van GIS, SDI en remote sensing. Uiteraard met open source software en open courseware."
+  thumbnailUrl: HansVanDerKwast.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/hansakwast"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jvdkwast/"}
+    - {name: "youtube", link: "https://www.youtube.com/c/HansvanderKwast"}
+  rockstar: true
+-
+  id: 5
+  name: "Edward"
+  surname: "Mac Gillavry"
+  company: "Webmapper"
+  title: ""
+  bio: "Sinds hij in 2005 Webmapper startte, is Edward web map developer en consultant. Vanuit de cartografische projecten voor diverse opdrachtgevers geeft hij advies en doceert hij over het ontwikkelen van geografische web-applicaties. Edward verbindt de kennis en ervaring uit de cartografie met de nieuwste ontwikkelingen op het Web."
+  thumbnailUrl: EdwardMacGillavry.png 
+  social: 
+    - {name: "twitter", link: "https://twitter.com/emacgillavry"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/emacgillavry"}
+  rockstar: true
+-
+  id: 7
+  name: "Just"
+  surname: "van den Broecke"
+  company: "JustObjects"
+  title: ""
+  bio: ""
+  thumbnailUrl: JustVanDenBroecke.jpg
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/justb4"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/justb4"}
+  rockstar: true
+-
+  id: 8
+  name: "Paul"
+  surname: "van Genuchten"
+  company: "Stichting ISRIC"
+  title: ""
+  bio: ""
+  thumbnailUrl: PaulvanGenuchten.jpg
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/pvangenuchten"}
+  rockstar: true
+-
+  id: 9
+  name: "Raymond"
+  surname: "Nijssen"
+  company: "Terglobo"
+  title: ""
+  bio: "Raymond Nijssen werkt al ruim tien jaar als zelfstandig open source GIS-adviseur onder de naam Terglobo en is lid van de coöperatie OpenGeoGroep.
+  Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor regelmatig internationale bijeenkomsten. Oh, en hij is uiteraard ook de voorzitter van de QGISNL gebruikersgroep."
+  thumbnailUrl: RaymondNijssen.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 10
+  name: "Marco"
+  surname: "Duiker"
+  company: "LandGoed"
+  title: ""
+  bio: "Alles geo. Bij voorkeur vernieuwend, altijd klantgericht. Sinds kort als technisch directeur van LandGoed"
+  thumbnailUrl: MarcoDuiker.jpg
+  social: 
+    - {name: "site", link: "https://www.landgoed.it"}
+  rockstar: true
+-
+  id: 11
+  name: "Ton"
+  surname: "Zijlstra"
+  company: "Geonovum"
+  title: ""
+  bio: ""
+  thumbnailUrl: ton_zijlstra.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ton_zylstra"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tonzijlstra"}
+  rockstar: true
+-
+  id: 13
+  name: "Bram"
+  surname: "Corneliszen"
+  company: "Provincie Gelderland"
+  title: ""
+  bio: ""
+  thumbnailUrl: bram_corneliszen.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bramcorneliszen"}
+  rockstar: true
+-
+  id: 14
+  name: "Sabine"
+  surname: "de Milliano"
+  company: "52impact / Knalblauw"
+  title: ""
+  bio: "Creatieve ondernemer met een technische achtergrond in remote sensing en GIS (TU Delft). Oprichter van 52impact en Knalblauw. Reisfotograaf en schrijver van Surprising Europe. Verbinder van geo, IT en communicatie. Doel: complexe technologie simpel en mooi maken."
+  thumbnailUrl: sabine_de_milliano.jpg
+  social: 
+    - {name: "instagram", link: "https://www.instagram.com/sabine_imagery/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sabinedemilliano"}
+  rockstar: true
+-
+  id: 15
+  name: "Balázs"
+  surname: "Dukai"
+  company: "TU Delft / 3DGI"
+  title: ""
+  bio: ""
+  thumbnailUrl: balazs_dukai.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/BalazsDukai"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/balazsdukai"}
+  rockstar: true
+-
+  id: 16
+  name: "Ravi"
+  surname: "Peters"
+  company: "TU Delft / 3DGI"
+  title: ""
+  bio: ""
+  thumbnailUrl: ravi_peters.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ylannl"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ravi-peters-b4912621"}
+  rockstar: true
+-
+  id: 17
+  name: "Aron"
+  surname: "Gergely"
+  company: "Rasterra"
+  title: ""
+  bio: ""
+  thumbnailUrl: aron_gergely.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/arongerg"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/arongergely"}
+  rockstar: true
+-
+  id: 18
+  name: "Jonna"
+  surname: "Bosch"
+  company: "Nieuwland"
+  title: "Docent en adviseur geo-informatie"
+  bio: ""
+  thumbnailUrl: jonna_bosch.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jonnabosch"}
+  rockstar: true
+-
+  id: 19
+  name: "Frederieke"
+  surname: "Ridder"
+  company: "Webmapper"
+  title: "Cartograaf"
+  bio: "Frederieke is gefascineerd door verkavelingspatronen in het landschap. Zij volgde de opleidingen Allround Styling aan de Academie Artemis en Geo Media & Design aan de Aeres Hogeschool. Bij Webmapper neemt zij het ontwerp voor haar rekening."
+  thumbnailUrl: Frederieke.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/frederieke-ridder-870b7092/"}
+  rockstar: true
+-
+  id: 20
+  name: "Erik"
+  surname: "Meerburg"
+  company: "B3Partners, TU Delft, Geo Academie"
+  title: ""
+  bio: ""
+  thumbnailUrl: ErikMeerburg.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/geogoeroe"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/erik-meerburg-53a8055/"}
+  rockstar: true
+-
+  id: 22
+  name: "Camilo Alexander"
+  surname: "Leon-Sanchez"
+  company: "TU Delft"
+  title: ""
+  bio: ""
+  thumbnailUrl: camilo_leon_sanchez.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/camilo-alexander-leon-sanchez-30143a51"}
+  rockstar: true
+-
+  id: 23
+  name: "Markus"
+  surname: "Konkol"
+  company: "ITC"
+  title: ""
+  bio: ""
+  thumbnailUrl: markus_konkol.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/MarkusKonkol"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/markus-konkol-a3b244140"}
+  rockstar: true
+-
+  id: 24
+  name: "Natalia"
+  surname: "Cárdenas Niño"
+  company: "FutureWater"
+  title: ""
+  bio: ""
+  thumbnailUrl: natalia_cardenas.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/natalia-cardenas-nino"}
+  rockstar: true
+-
+  id: 25
+  name: "Kor"
+  surname: "de Jong"
+  company: "Universiteit Utrecht"
+  title: ""
+  bio: ""
+  thumbnailUrl: kor_de_jong.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kordejong"}
+  rockstar: true
+-
+  id: 26
+  name: "Stijn"
+  surname: "Ticheloven"
+  company: ""
+  title: ""
+  bio: "Afgelopen maand heb ik de masteropleiding GIMA afgerond. GIMA heeft mij veel geleerd ik kan omgaan met verschillende softwarepakketten en over alle toepassing van GIS. Als kers op de taart heb ik voor mijn scriptie heb ik een model ontwikkeld om waterafstroming te modelleren met LiDAR-data met QGIS. Daarbij heb ik verschillende methoden ontdekt waarmee point-cloud datasets geanalyseerd kunnen worden. Vanaf 1 november ga ik starten met mijn eerste baan als consultant voor de publieke sector bij PwC."
+  thumbnailUrl: stijn_ticheloven.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/stijnticheloven"}
+  rockstar: true
+-
+  id: 27
+  name: "Martijn"
+  surname: " van der Struijk"
+  company: "B3Partners"
+  title: "Manager Software Development team"
+  bio: ""
+  thumbnailUrl: martijnvanderstruik.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/martijn-van-der-struijk-91a73773/"}
+  rockstar: true
+-
+  id: 28
+  name: "Irene"
+  surname: "Pleizier"
+  company: "Van Oord"
+  title: "Teamleider GIS"
+  bio: ""
+  thumbnailUrl: irenepleizier.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/irene-pleizier-0225453/"}
+  rockstar: true
+- 
+  id: 29
+  name: "Joachim"
+  surname: "Tempelaars"
+  company: "Veiligheidsregio Brabant Zuidoost"
+  title: "Operationele informatie Geo-data Geo-applicatie"
+  bio: "Werkzaam als Geo-beheerder bij Veiligheidsregio Brabant Zuidoost. Daar draag ik zorg dat Geo-informatie bruikbaar is binnen de Veiligheidsregio. Dit doe ik op een verbindende manier met diverse Veiligheidsregio’s in het land. Mijn denklijn ligt daardoor ook vooral bij het gebruik van open source software."
+  thumbnailUrl: joachim.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tempelaars-joachim-21097164/"}
+  rockstar: true
+-
+  id: 30
+  name: "Jeroen"
+  surname: "Hogeboom"
+  company: "Kadaster"
+  title: "Adviseur en productowner PDOK"
+  bio: ""
+  thumbnailUrl: jeroenhogeboom.jpg
+  social: 
+  rockstar: true
+-
+  id: 31
+  name: "Zhaiyu"
+  surname: "Chen"
+  company: "TU Delft"
+  title: "Researcher"
+  bio: ""
+  thumbnailUrl: zhaiyu.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/zhaiyu-chen/"}
+  rockstar: true
+- 
+  id: 32
+  name: "Muhammad"
+  surname: "Saleem"
+  company: ""
+  title: "Researcher"
+  bio: ""
+  thumbnailUrl: muhammedsaleem.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/muhammad-saleem056/"}
+  rockstar: true
+-
+  id: 33
+  name: "Serkan"
+  surname: "Girgin"
+  company: "Faculty of Geo-Information Science and Earth Observation (ITC)/"
+  title: "Assistant Professor"
+  bio: ""
+  thumbnailUrl: serkangirgin.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/serkan-girgin/"}
+  rockstar: true

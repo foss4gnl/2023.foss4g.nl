@@ -1,0 +1,37 @@
+<!-- Begin Find Way-->
+<section>    
+        <div id="nlmaps-holder"></div>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css">
+        <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+        <script src="https://rawgit.com/kadaster/nlmaps/master/dist/nlmaps.iife.js"></script>
+        <script>
+            var nlMapsHolder = document.getElementById('nlmaps-holder');
+            nlMapsHolder.style.height = '450px';
+            var opts = {
+                style: 'standaard',
+                target: 'nlmaps-holder',
+                center: {
+                    longitude: {{ site.eventPlaceLongitude }},
+                    latitude: {{ site.eventPlaceLatitude }}, 
+                },
+                overlay: 'false',
+                marker: false,
+                zoom: 12,
+                search: false,
+            };
+
+            var map = nlmaps.createMap(opts);
+             
+            var marker = L.marker([{{ site.eventPlaceLatitude }}, {{ site.eventPlaceLongitude }}]).addTo(map);
+            marker.bindPopup("<strong>{{ site.eventLocationName }}</strong><br>{{ site.eventStreetAddress }} {{ site.eventAddressLocality }}").openPopup();
+                
+            map.scrollWheelZoom.disable();
+                
+            if(L.Browser.mobile) {
+                    map.dragging.disable();
+                    console.log("dragging disabled")
+            } else {
+                    console.log("dragging enabled")
+            }
+        </script>
+</section>

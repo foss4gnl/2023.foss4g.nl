@@ -1,0 +1,94 @@
+- 
+  date: "2023-09-14"
+  dateReadale: "14 september"
+  title: "Presentaties TODO"
+  tracks: 
+    - {title: "QGIS", color: "#90be4e"}
+    - {title: "Tech & Science", color: "#e91e63"}
+    - {title: "OSGeo", color: "#03a9f4"}
+  timeslots:
+    - {
+      startTime: "9:00",
+      endTime: "9:30",
+      sessionIds: [800]
+    }
+    - {
+      startTime: "9:30",
+      endTime: "10:00",
+      sessionIds: [801]
+    }
+    - {
+      startTime: "10:00",
+      endTime: "10:30",
+      sessionIds: [901]
+    }
+    - {
+      startTime: "10:30",
+      endTime: "11:00",
+      sessionIds: [802]
+    }
+    - {
+      startTime: "11:00",
+      endTime: "12:15",
+      sessionIds: [101,201,301]
+    }
+    - {
+      startTime: "",
+      endTime: "",
+      sessionIds: [102,202,302]
+    }
+    - {
+      startTime: "",
+      endTime: "",
+      sessionIds: [103,203,303]
+    }
+    - {
+      startTime: "12:15",
+      endTime: "13:30",
+      sessionIds: [803]
+    }
+    - {
+      startTime: "13:30",
+      endTime: "14:45",
+      sessionIds: [104,204,304]
+    }
+    - {
+      startTime: "",
+      endTime: "",
+      sessionIds: [105,205,305]
+    }    
+    - {
+      startTime: "",
+      endTime: "",
+      sessionIds: [106,206,306]
+    }
+    - {
+      startTime: "14:45",
+      endTime: "15:05",
+      sessionIds: [802]
+    }
+    - {
+      startTime: "15:05",
+      endTime: "16:00",
+      sessionIds: [107,207,307]
+    }
+    - {
+      startTime: "",
+      endTime: "",
+      sessionIds: [108,208,308]
+    }
+    - {
+      startTime: "16:00",
+      endTime: "16:30",
+      sessionIds: [902]
+    }
+    - {
+      startTime: "16:30",
+      endTime: "17:00",
+      sessionIds: [804]
+    }
+    - {
+      startTime: "17:00",
+      endTime: "",
+      sessionIds: [805]
+    }

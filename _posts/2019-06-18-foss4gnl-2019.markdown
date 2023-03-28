@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Maptime track!"
+date:   2019-06-18 19:56
+isStaticPost: false
+---
+
+(for English, scroll down!)
+
+Beste Kaartliefhebbers! 
+
+Tijdens de Foss4GNL dag is er ook een heuse Maptime track! Hier hebben we drie hands-on workshops in de stijl van Maptime. Dit betekent zelf aan de slag om een kaartje te maken!
+
+Inschrijven voor de workshops kun je doen bij binnenkomst direct bij de registratie. Per workshop kunnen maximaal 20 mensen mee doen. Bedenk van te voren goed welke workshop(s) je mee wilt gaan doen, er is een beetje voorbereiding nodig. En omdat we vermoeden dat de workshops snel vol zullen lopen, kan je je er in principe maar voor één inschrijven (als er in de eerste koffiepauze nog plekken open zijn dan mag je een tweede invullen).
+
+Wat heb je nodig:
+
+De workshops zijn hands-on. Neem dus je eigen laptop mee en zorg dat je voor de workshop al de lokale internet connectie hebt getest. De workshops zijn maar kort dus om het beste er van te maken zorg dat je goed voorbereid bent.
+Zorg ook dat je een goede text-editor geïnstalleerd hebt, zoals Visual Studio Code, Brackets of Notepad++, met Syntax Highligting.
+
+___Workshop 1. Browser based mapping with D3.js___
+* [Download CBS wijk data](https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische%20data/wijk-en-buurtkaart-2018)
+* Zorg dat je [QGIS](https://www.qgis.org/en/site/) hebt
+* Maak een Observable account aan: [https://observablehq.com/](https://observablehq.com/)
+
+___Workshop 2. Geofiction & Roadmapping___
+
+Niets nodig! We werken analoog. Met de hand gaan we een kaart maken over Foss4GNL.
+
+___Workshop 3. Dashboard prototyping in R___
+
+Helaas gaat workshop 3 niet meer door. Er zal meer tijd zijn in de middag voor Workshop 2: Geofiction & Roadmapping.
+
+
+Tot donderdag!
+
+ 
+---
+
+
+Dear Map Lovers!
+
+During FOSS4GNL we will have a Maptime Track! Three hands-on workshops in the style of Maptime. This means, bring your laptop and let's make a map!
+
+Subscription for the workshops is at the entrance of the day, during registration. Per workshop max 20 people can participate. Some workshops need a little preparation. So decide beforehand which workshops you want to join. And becaus we expect quite the rush for the workshops, you can only pick one... (if there are still some spaces left during the first coffee break, you can apply for another).
+
+What do you need?
+
+Bring your own device! Maptime is hands-on, so bring your laptop. Make sure you test the local internet connection before the workshops. The workshops are short so come prepared to make the most out of it.
+Also, make sure you have a good text-editor installed. Like Visual Studio Code, Brackets or Notepad++. With Syntax Highlighting.
+
+___Workshop 1. Browser based mapping with D3.js___
+* Download [CBS neighborhood data](https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische%20data/)wijk-en-buurtkaart-2018
+* Make sure you have [QGIS](https://www.qgis.org/en/site/) installed
+* Create a Observable account [https://observablehq.com/](https://observablehq.com/)
+
+___Workshop 2. Geofiction & Roadmapping___
+* No needs! We will work analogue to draw our own map of FOSS4GNL
+
+___Workshop 3. Dashboard prototyping in R (spoken language will be Dutch)___
+
+Unfortunately workshop 3 is cancelled. There will be more time in the afternoon for workshop 2: Geofiction & Roadmapping. 
+
+See you Thursday! 

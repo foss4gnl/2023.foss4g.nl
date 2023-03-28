@@ -1,0 +1,26 @@
+- 
+  date: "2023-09-13"
+  dateReadable: "woensdag 13 september"
+  tracks: 
+    - {title: "Keuze uit vier interessante pre-conference workshops! TODO", color: "#4CB05B"}
+  timeslots:
+    - {
+        startTime: "13:00",
+        endTime: "17:00",
+        sessionIds: [701]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "17:00",
+        sessionIds: [704]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "17:00",
+        sessionIds: [702]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "17:00",
+        sessionIds: [705]
+    }

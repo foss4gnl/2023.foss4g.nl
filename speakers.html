@@ -1,0 +1,18 @@
+---
+layout: default
+title: Sprekers
+permalink: /speakers/
+image: tudelf_datalines_small.jpg
+modal: all
+---
+
+{% include top-section.html %}
+
+{% include description_sprekers.html %}
+
+{% if site.showSessions %}
+    {% include speakers-list.html %}
+{% else %}
+    {% include speakers-list-2.html %}
+{% endif %}
+

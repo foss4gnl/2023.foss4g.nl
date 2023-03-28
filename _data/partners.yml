@@ -1,0 +1,51 @@
+- 
+  group: "Goud"
+  elements: 
+    - {
+        name: "OpenGeoGroep", 
+        description: "", 
+        link: "https://www.opengeogroep.nl/", 
+        imageUrl: "logo-opengeogroep.svg"
+      }
+    - {
+        name: "GeoCat", 
+        description: "", 
+        link: "https://www.geocat.net/", 
+        imageUrl: "logo-geocat.png"
+      }
+-
+  group: "Zilver"
+  elements:
+    - {
+        name: "JustObjects", 
+        description: "", 
+        link: "https://justobjects.nl/", 
+        imageUrl: "logo-justobjects.png"
+      }
+    - {
+        name: "Geo Academie", 
+        description: "", 
+        link: "https://geo-academie.nl/", 
+        imageUrl: "logo-geoacademie-300x80.png"
+      }      
+    - {
+        name: "Steggink Geo-ICT", 
+        description: "", 
+        link: "https://www.steggink.it/", 
+        imageUrl: "steggink_32px.png"
+      }
+-
+  group: "Brons"
+  elements:
+    - {
+        name: "Locate Press", 
+        description: "", 
+        link: "https://locatepress.com/", 
+        imageUrl: "locate_press_log_v3_tag.png"
+      }
+    - {
+        name: "Ruimteschepper", 
+        description: "", 
+        link: "https://www.ruimteschepper.nl/", 
+        imageUrl: "ruimteschepper-logo-donker-300x169.png"
+      }
