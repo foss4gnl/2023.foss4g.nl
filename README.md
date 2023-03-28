@@ -1,6 +1,6 @@
 # Website FOSS4GNL 2023 in Middelburg
-This is the content for the website of the FOSS4GNL 2023 conference (to be) held on October 19/20, IRL at 
- Middelburg.
+This is the content for the website of the FOSS4GNL 2023 conference (to be) held on September 13/14, IRL at 
+Provincie Zeeland in Middelburg.
 Link: https://foss4g.nl
 
 ## Credits
