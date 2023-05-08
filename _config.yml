@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor/bundle']
 # Site Settings
 title: "FOSS4GNL 2023"
 email: "foss4g@osgeo.nl"
-description: "FOSS4GNL conference website 2021"
+description: "FOSS4GNL conference website 2023"
 baseurl: ""
 url: "https://foss4g.nl"
 permalink: "/blog/:title"
@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://osgeo.nl/"
 
 # Head
-metaKeywords: "event, osgeo, conferentie, open source, geo, gis, enschede, geographic, nederland"
+metaKeywords: "event, osgeo, conferentie, open source, geo, gis, middelburg, geographic, nederland"
 twitterAccount: "@osgeonl"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 
@@ -37,13 +37,13 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Nieuws"}
- - {permalink: "/workshops/", text: "Workshops"}
- - {permalink: "/conference/", text: "Programma"}
+# - {permalink: "/workshops/", text: "Workshops"}
+# - {permalink: "/conference/", text: "Programma"}
 # - {permalink: "/photos/", text: "Foto's"}
- - {permalink: "/speakers/", text: "Sprekers"}
+# - {permalink: "/speakers/", text: "Sprekers"}
 bottomNavigationLinks:
-  - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2021-176393867807", text: "Aanmelden"}
-  - {link: "https://foss4g.nl", text: "Presentaties"}
+#  - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2021-176393867807", text: "Aanmelden"}
+#  - {link: "https://foss4g.nl", text: "Presentaties"}
 rightNavigationButtons:
   #- {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2019-60886980598", text: "Aanmelden"}
   #- {link: "https://foss4g.nl", text: "Presentaties"}
@@ -51,7 +51,7 @@ rightNavigationButtons:
 # About Block
 aboutTitle: "Over FOSS4GNL 2023"
 aboutBlock:
- - {title: "Conferentie", image: "3dgeoinfo.png", permalink: "/conference/", text: "20 oktober 2021"}
+ - {title: "Conferentie", image: "3dgeoinfo.png", permalink: "/conference/", text: "13/14 September 2023"}
 
 # Statistic Block
 statisticBlockImage: "delft_ahn3.jpg"
@@ -66,27 +66,27 @@ latestNewsTitle: "Nieuws"
 
 # Location Block
 locationBlockTitle: "Locatie"
-eventLocationName: "Universiteit Twente - Faculteit Geo-Information Science and Earth Observation (ITC)"
-eventLocationLink: "https://www.itc.nl/about-itc/contact/maps-route/"
-eventStreetAddress: "Hengelosestraat 99"
-eventAddressLocality: "Enschede"
-eventAddressLocalityRegion: "Overijssel"
-eventPostalCode: "7514 AE"
+eventLocationName: "Middelburg"
+eventLocationLink: ""
+eventStreetAddress: ""
+eventAddressLocality: "Middelburg"
+eventAddressLocalityRegion: "Zeeland"
+eventPostalCode: ""
 eventAddressCountry: "Nederland"
-eventStartTime: "2021-10-20T10:00"
+eventStartTime: "2023-09-13T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2021-10-20T18:00"
-eventPlaceCoordinates: "52.22364, 6.88584"
-eventPlaceLongitude: 6.88584
-eventPlaceLatitude: 52.22364
-mapCenterCoordinates: "52.22364, 6.88584"
-mapMobileCenterCoordinates: "52.22364, 6.88584"
+eventEndTime: "2023-09-14T18:00"
+eventPlaceCoordinates: "51.50053, 3.61473"
+eventPlaceLongitude: 3.61473
+eventPlaceLatitude: 51.50053
+mapCenterCoordinates: "51.50053, 3.61473"
+mapMobileCenterCoordinates: "51.50053, 3.61473"
 
 # Partners Block
 organizersTitle: ""
 partnersTitle: "Sponsors"
 becomeSponsorLink: "mailto:foss4g@osgeo.nl"
-sponsorsButtonText: "Wordt een sponsor"
+sponsorsButtonText: "Word een sponsor"
 
 
 # Tickets Block
