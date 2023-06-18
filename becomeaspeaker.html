@@ -7,12 +7,15 @@ modal: all
 ---
 
 {% include top-section.html %}
-
+<div class="content-wrapper">
+    <div class="jumbotron">	
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-            {% assign heroText = site.data.hero.title | split:"<typeout>" %}
+            {% assign heroText = site.data.hero.spreker | split:"<typeout>" %}
             <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden"></h1>
             <p>{{ site.data.hero.eventDate }}</p>
              {% for button in site.data.hero.buttons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %} 
         </div>
+    </div>
+</div>
