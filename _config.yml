@@ -51,7 +51,7 @@ rightNavigationButtons:
 # About Block
 aboutTitle: "Over FOSS4GNL 2023"
 aboutBlock:
- - {title: "Conferentie", image: "3dgeoinfo.png", permalink: "/conference/", text: "13/14 September 2023"}
+# - {title: "Conferentie", image: "3dgeoinfo.png", permalink: "/conference/", text: "13/14 September 2023"}
 
 # Statistic Block
 statisticBlockImage: "delft_ahn3.jpg"
