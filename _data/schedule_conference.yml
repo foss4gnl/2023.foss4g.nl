@@ -28,12 +28,6 @@
       endTime: "11:00",
       sessionIds: [802]
     }
-  tracks: 
-    - {title: "Beleid & QGIS", color: "#90be4e"}
-    - {title: "3D, RS & CRS", color: "#e91e63"}
-    - {title: "Py, edu & carto", color: "#03a9f4"}
-    - {title: "OSPO's en OSS", color: "#6326ff"}
-  timeslots:
     - {
       startTime: "11:00",
       endTime: "12:15",
