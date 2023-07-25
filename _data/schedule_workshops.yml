@@ -2,7 +2,7 @@
   date: "2023-09-13"
   dateReadable: "woensdag 13 september"
   tracks: 
-    - {title: "Keuze uit vier interessante pre-conference workshops! TODO", color: "#4CB05B"}
+    - {title: "Keuze uit vier interessante pre-conference workshops, waarmee je zelf ook echt aan de slag gaat.", color: "#4CB05B"}
   timeslots:
     - {
         startTime: "13:00",

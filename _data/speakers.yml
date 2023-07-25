@@ -349,3 +349,12 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/fritsbussemaker/"}
   rockstar: true
+  -
+  id: 140
+  name: "Casper"
+  surname: "Kersten"
+  company: ""
+  thumbnailUrl: "placeholder.jpg"
+  social: 
+    - {name: "linkedin", link: ""}
+  rockstar: true
