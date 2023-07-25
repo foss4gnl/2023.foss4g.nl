@@ -62,7 +62,7 @@
   title: "Een Landsdekkend Cesium Terrain vanuit de AHN"
   description: "Opdracht voor Kadaster, Cesium, terrain tiler, conversie dtm naar terrain tiles, issues waar we tegenaan liepen"
   subtype: presentation
-  speakers: [102]
+  speakers: [102,132]
   language: nl
   complexity: [beginner]
 -
@@ -262,7 +262,7 @@
   title: "Leveraging Remote Sensing, GIS, and Open-Access Data to Investigate Nocturnal Cold Air Formation in Dutch Dune Slacks"
   description: "The coast area of Netherlands comprises around 45,000 ha of dunes which serve as a protection against flood and source of drinking water among other uses (Arens et al. 2013). Within the dune landscape, dune slacks are present which are depressions with low altitude that contain a distinct micro-climate as compared to the surrounding dune environment.<br />This research aims to understand the nocturnal cold air formation inside the coastal dune slacks of the Netherlands by comparing the recorded time series temperature data with the geomorphology, soil type, soil moisture, wind speed and vegetation cover of 35 dune slacks. <br />The methodology leverages a wealth of open-access data, including freely available high-resolution point cloud, digital images, remote sensing (RS) products, and field measurements. The high-resolution point cloud data enables the analysis of general geomorphological characteristics using QGIS tools and plugins, while RS NDVI data provides valuable insights into vegetation cover. Ground measurements and SAR data are used to acquire soil moisture information. <br />At the end, all the analysis made in QGIS is going to be compared with the logged temperature data in each dune slack using some statistical tools. <br /><br />Therefore, in the FOSS4G NL, I want to share how I used the open source data and software’s to conduct my Thesis in the Netherlands. <br />"
   subtype: presentation
-  speakers: [130]
+  speakers: [130,131,109]
   language: en
   complexity: [beginner]
 -
@@ -289,3 +289,12 @@
   speakers: [108]
   language: nl
   complexity: [beginner]
+-
+  id: 701
+  title: "OpenStreetMap: leer slim zelf editen!"
+  description: "OSM basics, survey apps zoals StreetComplete & EveryDoor (buiten workshop?), als we heel veel tijd hebben misschien nog iets over Overpass (Turbo) of JOSM (als daar interesse voor is)"
+  subtype: presentation
+  speakers: [140]
+  language: nl
+  complexity: [beginner]
+  

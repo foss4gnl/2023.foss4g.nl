@@ -353,7 +353,7 @@
   id: 140
   name: "Casper"
   surname: "Kersten"
-  company: ""
+  company: "OSM community"
   thumbnailUrl: "placeholder.jpg"
   social: 
     - {name: "linkedin", link: ""}
