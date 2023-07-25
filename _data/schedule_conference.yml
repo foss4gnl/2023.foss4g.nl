@@ -1,12 +1,8 @@
 - 
   date: "2023-09-14"
   dateReadale: "14 september"
-  title: "Presentaties TODO"
-  tracks: 
-    - {title: "Beleid & QGIS", color: "#90be4e"}
-    - {title: "3D, RS & CRS", color: "#e91e63"}
-    - {title: "Py, edu & carto", color: "#03a9f4"}
-    - {title: "OSPO's en OSS", color: "#6326ff"}
+  title: "Programma"
+
   timeslots:
     - {
       startTime: "9:00",
@@ -28,6 +24,11 @@
       endTime: "11:00",
       sessionIds: [802]
     }
+      tracks: 
+    - {title: "Beleid & QGIS", color: "#90be4e"}
+    - {title: "3D, RS & CRS", color: "#e91e63"}
+    - {title: "Py, edu & carto", color: "#03a9f4"}
+    - {title: "OSPO's en OSS", color: "#6326ff"}
     - {
       startTime: "11:00",
       endTime: "12:15",
@@ -41,7 +42,7 @@
     - {
       startTime: "",
       endTime: "",
-      sessionIds: [105,102,104]
+      sessionIds: [105,102,104,999]
     }
     - {
       startTime: "12:15",
