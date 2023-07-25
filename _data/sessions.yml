@@ -278,7 +278,7 @@
   speakers: [123]
   language: nl
   complexity: [beginner]
-  -
+-
   id: 704
   title: "Raster analyses met PCRaster in QGIS en Python"
   description: "Tijdens deze workshop leer je raster analyses te doen met de PCRaster Tools plugin voor QGIS, processen te automatiseren met grafische modellen in QGIS en map algebra toe te passen in Python scripts."
