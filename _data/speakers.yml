@@ -273,7 +273,7 @@
   name: "Pieter"
   surname: "Bliek"
   company: "IHE Delft"
-  thumbnailUrl: "pieter_bliek.jpg"
+  thumbnailUrl: "placeholder.jpg"
   social: 
     - {name: "linkedin", link: ""}
   rockstar: true
