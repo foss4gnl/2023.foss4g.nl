@@ -3,9 +3,10 @@
   dateReadale: "14 september"
   title: "Presentaties TODO"
   tracks: 
-    - {title: "QGIS", color: "#90be4e"}
-    - {title: "Tech & Science", color: "#e91e63"}
-    - {title: "OSGeo", color: "#03a9f4"}
+    - {title: "Beleid & QGIS", color: "#90be4e"}
+    - {title: "3D, RS & CRS", color: "#e91e63"}
+    - {title: "Py, edu & carto", color: "#03a9f4"}
+    - {title: "OSPO's en OSS", color: "#6326ff"}
   timeslots:
     - {
       startTime: "9:00",
@@ -30,17 +31,17 @@
     - {
       startTime: "11:00",
       endTime: "12:15",
-      sessionIds: [101,201,301]
+      sessionIds: [124,121,107,101]
     }
     - {
       startTime: "",
       endTime: "",
-      sessionIds: [102,202,302]
+      sessionIds: [120,127,103,113]
     }
     - {
       startTime: "",
       endTime: "",
-      sessionIds: [103,203,303]
+      sessionIds: [105,102,104]
     }
     - {
       startTime: "12:15",
@@ -50,17 +51,17 @@
     - {
       startTime: "13:30",
       endTime: "14:45",
-      sessionIds: [104,204,304]
+      sessionIds: [117,125,110,114]
     }
     - {
       startTime: "",
       endTime: "",
-      sessionIds: [105,205,305]
+      sessionIds: [115,130,129]
     }    
     - {
       startTime: "",
       endTime: "",
-      sessionIds: [106,206,306]
+      sessionIds: [109,128]
     }
     - {
       startTime: "14:45",
@@ -70,12 +71,12 @@
     - {
       startTime: "15:05",
       endTime: "16:00",
-      sessionIds: [107,207,307]
+      sessionIds: [118,111,119]
     }
     - {
       startTime: "",
       endTime: "",
-      sessionIds: [108,208,308]
+      sessionIds: [112,116,106]
     }
     - {
       startTime: "16:00",

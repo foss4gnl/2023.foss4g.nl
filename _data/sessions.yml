@@ -26,256 +26,263 @@
   service: true
 -
   id: 804
-  title: "Grote Geo Quiz LIVE"
+  title: "Afsluiting"
   service: true
 -
   id: 805
-  title: "Afsluiting & Borrel"
+  title: "Borrel in het Abdijcafé"
   service: true
 -
   id: 901
   title: "Opening keynote"
   subtype: presentation
-  description: "Trust and transparency to address global challenges: The example of FOSS4G in #EDplanning"
-  speakers: [1]
-  language: "EN"
+  description: ""
+  speakers: [139]
+  language: "NL"
 -
   id: 902
   title: "Closing Keynote"
   subtype: presentation
-  description: "QGIS releases three new versions per year. With each there is a long list of new features. This presentation will give a visual overview of some of the best new features released over the last calendar year.  Topics include: <br />
-User interface enhancements * Go-To Locator * Attribute tables * Symbology * Labeling * Print composer * Processing * Improvements in the expression engine * Digitizing * Graphical modeler * QGIS 3D * support for Point clouds. <br /><br />
-Come and learn about how far QGIS has evolved in the last year!"
-  speakers: [2]
-  language: "EN"
-
--
-  id: 101
-  title: "QGIS Gebruikersgroep NL en andere leuke dingen voor QGIS'ers-"
-  subtype: presentation
-  description: "Een korte terugblik op het afgelopen jaar en vooruitkijken, wat doet de Nederlandse QGIS gebruikersgroep? En een QGIS plugin showcase: styles and resource manager"
-  speakers: [9]
-  language: "NL"
--
-  id: 102
-  title: "Introductie op het Geoforum: de plek voor het uitwisselen van kennis en ervaring op het gebied van geo"
-  subtype: presentation
-  description: "-"
-  speakers: [30]
-  language: "NL"
--
-  id: 103
-  title: "De Provincies en open source (Q)GIS trainingen."
-  subtype: presentation
-  description: "De Provincies hebben vanuit het Provinciaal Platform Geo geïnvesteerd in de ontwikkeling van vrij beschikbare trainingsvideo’s voor QGIS. Waarom hebben we dit gedaan, hoe kan je het inzetten en wat zijn de vervolgstappen?"
-  speakers: [12]
-  language: "NL"
--
-  id: 104
-  title: "Van Oord belandt niet tussen wal en schip met Open source GIS"
-  subtype: presentation
-  description: "In deze presentatie ga ik in op de oplossing die Van Oord heeft gekozen op het gebied van open source gis. Daarnaast kijken we naar toekomstige kansen en uitdagingen die het gebruik van open source GIS software met zich meebrengen.
-
-"
-  speakers: [28]
-  language: "NL"
--
-  id: 206
-  title: "WAPLUGIN: Water Accounting and Productivity Plugin"
-  subtype: presentation
-  description: "The WAPLUGIN is a tool created on the open-source software QGIS to compute water accounting and crop water productivity indicators based on WaPOR data, FAO's open-access remote-sensing database. The plugin creates a bridge between WaPOR information and QGIS and offers tools to process and calculate the indicators, such as the overall consumed ratio, the depleted fraction, and the overall field application ratio. Most of these water accounting and productivity indicators reflect the impact that agriculture has on water resources. Hence, their analysis will help identify specific issues that can be addressed by policymakers, large scheme irrigation managers, river basin authorities, water professionals, among others. It is possible to access the WAPLUGIN as any other QGIS plugin. Moreover, it has two main features: the WaPOR Catalog and the Indicator Calculator. On the one hand, the first feature can bring data from WaPOR to QGIS, providing direct access to the entire catalog, and the selection will depend on the user specifications (date, location, parameter, resolution). The selected data will then appear on the canvas as a raster layer. On the other hand, the plugin's second feature calculates some of the essential water accounting and productivity indicators based on WaPOR data. The first feature must specify the primary data like date, location, resolution, and units as in the first feature. Depending on the indicator, the input data can also include information provided by the user, apart from the WaPOR data.<br /><br /> Finally, the resulting indicator will be added as a raster layer in the QGIS canvas, facilitating access to WaPOR data for QGIS users and providing good compatibility with the QGIS tools for further processing.The WAPLUGIN is an innovative tool facilitating water accounting and productivity analysis by bringing together two powerful open-source platforms for the water and remote sensing community. The plugin enables the easy access and processing of WaPOR data, making this less time-consuming for GIS analysts. Furthermore, the indicators will support users by generating maps and reports for further assessment and evaluation, identifying the places of high and low irrigation efficiency and the crop and water productivity behavior. Hence, it will be an excellent option for tracking an irrigation scheme's performance, making the water accounting computation by water professionals simple and easy to use."
-  speakers: [24]
-  language: "EN"  
--
-  id: 106
-  title: "Interoperabiliteit: Het gebruik van Esri File geodatabases in Qgis"
-  subtype: presentation
-  description: "Ten behoeve van het verhogen van de adoptie en het verbetering de informatie uitwisseling binnen het BIM programma van de Provincie Gelderland hebben wij onlangs besloten onze BIM data uit te gaan wisselen middels een lichtgewicht uitwissel formaat. Hiervoor hebben wij in eerste instantie gekozen voor het Esri File geodatabases formaat omdat dit het beste bij onze organisatie. Om het gebruik hiervan en daarmee de adoptie van BIM zo groot mogelijk te maken willen we ervoor zorgen dat we naast een poriatary software oplossing ook een open-source oplossingen aan kunnen bieden. De komende maand gaan we vanuit de provincie Gelderland, samen met Terglobo de uitwisseling tussen Esri File geodatabases en Qgis verder uitbereiden en verbeteren en zullen dit beschikbaar maken als open-source plugin en/of toevoegen aan Qgis. In deze presentatie wil ik jullie graag mee nemen in de uitkomsten van deze ontwikkeling."
-  speakers: [13]
-  language: "NL"
--
-  id: 107
-  title: "A method to analyse LiDAR-data with QGIS"
-  subtype: presentation
-  description: "This research aims to investigate a new method for stream delineation with point cloud data in areas with low topographical relief, by using high-quality LiDAR point cloud data. Stream delineation is the derivation of streams, based on elevation data. By optimally using the quality LiDAR point cloud data, it is expected that better results in this field of study can be retrieved. The main objective of this research was to find and provide a proof of concept of an innovative method for stream delineation with direct point cloud analysis. Current methods predominantly use raster-based methods. Because of necessary interpolations that must be done during the creation of a raster terrain model, data is generalized and not optimally utilized for the analysis. The most commonly used conventional method is the D8-method. This method has limited direction options and, therefore, gives length errors. The new method handles this problem, as it can flow into an infinite number of directions. <br /><br />To identify the most suitable method that uses point cloud data more directly and to overcome the problem of the limited directions, an extensive theoretical review was performed and several prototypes were developed. The new method was selected by regarding three main requirements: accessibility, accuracy and simplicity. This means, respectively that the new method should be openly available for everyone, is more accurate than conventional approaches and is relatively easy to apply. This resulted in a new method: the absolute point-method. To ensure open accessibility of this method, the source code of this method can be found on: https://github.com/stn228/Absolute_point_method_Stream_delineation. This method looks for the lowest point within a specified search radius. To avoid getting in a local depression, an extendable neighbourhood and a maximum allowed course change was included in the algorithm. To examine the added value of the newly designed method, the results were compared to the results of a conventional stream delineation method: the deterministic 8 directions (D8), raster-based method. This research not only shows the added value of the newly designed absolute point-method but does also underline the great potential of point cloud data for hydrological analysis. The Root Mean Square Error of the D8 and the absolute point-method results were compared to a reference stream and the absolute point-method showed a significantly higher accuracy. Although this approach is very local, the absolute point-method offers a good alternative if conventional methods do not return satisfying results. It was demonstrated that, mostly in areas with very low topographical relief, the accuracy of this method is significantly higher. This shows the added value of the use of direct point cloud data for hydrological analysis. As hydrological applications become more and more important for proper water contamination management, this research advocates for a broader development of direct point cloud based hydrological tools. Finally, this research provides different suggestions for future research to scale this method. By adopting more efficient data structures and analysis methods for the point cloud, more advanced hydrological methods can become available."
-  speakers: [26]
-  language: ""
--
-  id: 108
-  title: "QGIS-OIV, een tool voor het maken van repressieve objectinformatie"
-  subtype: presentation
-  description: "Om objectinformatie te kunnen maken, gebruiken we het programma QGIS met de plug-in OIV 3.3.4 Eindhoven binnen de Veiligheidsregio Brabant Zuidoost.<br /><br />
-  De plug-in OIV 3.3.4 staat voor Operationele Informatie Voorziening, versie 3.3.4. Het vereenvoudigt bestaande en voegt nieuwe functionaliteit toe aan QGIS. Door de samenwerking met diverse andere veiligheidsregio’s, is er ondertussen een standaard voor objectinformatie afgesproken. Deze standaard beschrijft welke  informatie op welke wijze wordt vastgelegd. Dit heeft er vervolgens weer toe geleid dat we op dit moment samen met GeoNovum het InformatieModel Repressieve ObjectInformatie (IMROI) vastleggen.<br /><br />
-  Met deze plug-in kunnen we nu gebouwen, gebieden, watergebieden, evenementen en natuurgebieden vastleggen volgens de landelijke standaard. Bovendien zorgt de plug-in ervoor dat het eenvoudiger en efficiënter gedaan kan worden door tekenaars van repressieve objectinformatie."
-  speakers: [29]
-  language: "NL"
--
-  id: 201
-  title: "QGIS Processing Provider plugins"
-  subtype: presentation
-  description: "Steeds meer tools in de QGIS Processing Toolbox zijn beschikbaar via zogenaamde Processing Provider plugins. Met deze plugins kan je tools van bijvoorbeeld R, Whitebox of PCRaster gebruiken. Ze integreren netjes in QGIS, zodat je bijvoorbeeld ook grafische modellen kan maken en tools van verschillende providers kan combineren. De presentatie zal ingaan op de installatie van deze plugins en voorbeelden geven van het gebruik ervan."
-  speakers: [4]
-  language: "EN/NL"
--
-  id: 202
-  title: "Map algebra on steroids"
-  subtype: presentation
-  description: "map algebra, GIS, forward simulation modelling, high-performance computing (HPC), scalable computing, parallel computing, distributed computing, asynchronous many-tasks (AMT), LUE modelling framework, C++, Python"
-  speakers: [25]
-  language: "EN"
--
-  id: 203
-  title: "Reconstruction of 3D buildings with deep learning"
-  subtype: presentation
-  description: "Three-dimensional building models play a pivotal role in shaping the digital twin of our world. Despite the enhanced availability of point cloud data in the built environment, how to reconstruct compact building surface models remains non-trivial. In this talk, I will present a deep learning-based framework for reconstructing compact, watertight, polygonal building models from point clouds.<br /><br />
-  The workflow and experimental results will be discussed, particularly over fidelity, compactness and computational efficiency in comparison with state-of-the-art methods. Robustness to noise and insufficient measurements will also be analysed, together with the possibility of generalising the proposed framework from synthetic scans to real-world measurements. The framework relies on open-sourced computational environments, which will be introduced during the talk. Finally, the talk will conclude with the potential of deep learning in the context of urban modelling."
-  speakers: [31]
-  language: "EN"
--
-  id: 204
-  title: "Rethinking spatial data quality for open source geo-technologies"
-  subtype: presentation
-  description: "In this study I am trying to understand the relationship between context and spatial data quality. I concentrating on OpenStreetMap as a geo-technology and using different contextual lenses to explore any tangible and intangible relationships with its quality. For this presentation, I would like to present the embarkment and the disanchorment of my research journey towards RETHINKING different sides of dice of spatial data quality for OpenStreetMap and/or open source GIS tools. I will include how I am going to approach such subject and why it is important in ever-changing heterogeneity of OpenStreetMap. I will discuss four main aspects that includes contextual exploratory and explanatory case-studies analysis, Urban morphology, inclusive geovisualization and model thinking. I want to integrate these aspects, to develop an open-source GIS tool that would help using the knowledge developed from the research to visualize quality of OpenStreetMap with more contextual approach and definitions."
-  speakers: [32]
-  language: "EN"
--  
-  id: 205
-  title: "ITC’s Strategic Plan for Open Science 2021-2025 - Towards an Open Future"
-  subtype: presentation
-  description: "Open Science (OS) is an umbrella term comprising principles to increase the transparency of research. Besides Open Access to scientific articles, these principles contain public availability of reusable methods (e.g., code and tools), data, and educational materials. In this talk, I will outline a plan to achieve the transition towards OS at ITC. ITC is the Faculty of Geo-information Science and Earth Observation. ITC’s Strategic Plan for OS 2021 2025 Towards an Open Future contains five initiatives<br />
-    1) OS at ITC aims to provide guidelines and OS capacity building for ITC researchers and students to address the obstacles they encounter when doing OS.
-    2) The ITC Knowledge Hub will provide services and tools to access, create, and publish open research, including scientific results based on qualitative/quantitative analyses using computational workflows.
-    3) Open Educational Resources will be addressed by exploring options to realise Open Educational Resources at ITC and providing lecturers with guidelines and support to create them.
-    4) The OS Community Twente serves as an inter-disciplinary, bottom-up community to promote, learn, share, and discuss OS practices.
-    5) Research & Funding aims to address challenges in OS through innovative developments and user studies. A further output is to generate funding to realise the ambitious aims presented in the plan.For a successful OS transition, the initiatives aim to address the Rewards & Recognition system, valorise Sharing & Collaboration, develop OS Knowledge & Skills, and foster Cultural change & Societal impact."
-  speakers: [23]
-  language: "EN"
--
-  id: 105
-  title: "Open Data Cube: een open aardobservatie engine die je kunt bezitten"
-  subtype: presentation
-  description: "Hoe zou je een jaar aan satellietbeelden op stadsniveau verwerken? Of op continentaal niveau? En hoe zou je andere mensen daartoe kunnen bewegen?<br /><br />
-Open Data Cube is een software voor rastergegevensbeheer en -analyse, bedoeld om vrij en onafhankelijk te zijn. Met enige Python kennis kan men aan de slag met één van de online platforms. Maar met een beetje meer vertrouwen kunt u echter uw eigen kleine (of grote) data cube opzetten. Open Data Cube is geïnitieerd door de Australische overheid, maar heeft sindsdien ook een internationale gemeenschap verworven.<br /><br />
-In deze presentatie wil ik een overzicht geven van het ODC project en enkele use cases - inclusief een kijkje onder de motorkap."
-  speakers: [17]
-  language: "EN/NL"
--
-  id: 207
-  title: "The new 3D BAG 2.0 for energy demand simulation: first tests"
-  subtype: presentation
-  description: "The 3D BAG v. 2.0 dataset has been recently released: it is a country-wide dataset containing all buildings in the Netherlands, modelled in multiple LoDs (LoD1.2, LoD1.3 and LoD2.2). In particular, the LoD2.2 allows differentiating between different thematic surfaces composing the building envelope. This paper describes the first steps to test and use the 3D BAG 2.0 to perform energy simulations and characterise the energy performance of the building stock. Two well-known energy simulation software packages have been tested: SimStadt and CitySim Pro. Particular care has been paid to generate a suitable, valid CityGML test dataset, located in the municipality of Rijssen-Holten in the central-eastern part of the Netherlands, that has been then used to test the energy simulation tools. Results from the simulation tools have been then stored into the 3D City Database, additionally extended to deal with the CityGML Energy ADE. The whole workflow has been checked in order to guarantee a lossless dataflow. The paper reports on the proposed workflow, the issues encountered, some solutions implemented, and what the next steps will be."
-  speakers: [22]
-  language: "EN"
--
-  id: 208
-  title: "Using FOSS to develop and operate a geospatial computing platform"
-  subtype: presentation
-  description: "The Geospatial Computing Platform (GCP) is ITC's state-of-the-art interactive computing platform provided to its staff, students, and alumni (https://crib.utwente.nl). The platform is designed to serve for self-learning, exploratory research, and education activities. It provides a user-friendly interface for geospatial data analysis and visualisation tasks with hundreds of ready-to-use scientific and geospatial software packages, including desktop applications, machine learning frameworks, distributed computing frameworks, and GPU-enabled computing capabilities. It is also based on 100% free and open-source software (FOSS). This talk aims to provide information on how such a computing platform can be developed by using FOSS. The architecture and software components of the platform will be described and our experience in designing and operating the GCP will be presented."
-  speakers: [33]
-  language: "EN"
--
-  id: 301
-  title: "Vectortegels: thematische en topografische kaarten maken"
-  subtype: presentation
-  description: "Aan de hand van projecten uit de afgelopen 2 jaar laten we de tips en tricks zien om vectortegels in te zetten voor het maken van thematische en topografische kaarten."
-  speakers: [5]
-  language: "NL"
--
-  id: 302
-  title: "Geo in geluid"
-  subtype: presentation
-  description: "Lawaai en geluidhinder spelen waar mensen wonen en werken. In de buurt is ook infrastructuur: mensen reizen met de trein of de auto van de ene plek naar de andere: van wonen naar werken en weer terug en daarnaast is er nog ander verkeer. Dat geeft geluid. Een heleboel geluid kan leiden tot geluidoverlast en dat kan weer leiden tot slaapverstoring, hoge bloeddruk en verlies aan gezonde levensjaren. In deze presentatie vertel ik hoe het Geluid werkveld gebruik maakt van de geowereld. Hoe ruimtelijke data in 3D worden opgebouwd om een geluidmodel te genereren, hoe geo-algoritmen helpen om een geluidberekening te doen en hoe het eindresultaat weer op een kaart gepresenteerd wordt. Voor de opzet van een omgevingsmodel komt hierbij de PDOK dataset 3D Geluid aan bod."
-  speakers: [3]
-  language: "NL"
--
-  id: 303
-  title: "Bodem data hub op basis van open source"
-  subtype: presentation
-  description: "Stichting Isric - world soil information in Wageningen beheert naast een collectie bodemprofielen ook een aantal globale datasets rond bodem en landgebruik. Voor het beheer van de applicaties rond deze datasets gebruiken we een geavanceerde gitops workflow in gitlab, docker en kubernetes. In deze presentatie een korte uitleg over de gemaakte keuzes en ervaringen. Maar ook een aantal tips hoe je onze api’s voor diverse doeleinden kunt gebruiken."
-  speakers: [8]
-  language: "NL"
--
-  id: 304
-  title: "Snelle BGT import met Docker"
-  subtype: presentation
-  description: "De actuele BGT wordt sinds deze zomer via een API aangeboden, met als idee dat je de mutaties ook live bij kan houden. Bij B3Partners is een tool ontwikkeld waarmee je deze service kan gebruiken om een initiele laadactie te doen, en die (op gewenste momenten) makkelijk ook weer te updaten. Alles wordt geordend in een PostGIS database gezet, waarna in GeoServer je een snelle BGT-service kan maken. Als toefje op de taart zijn ook (werkende!) SLD's gemaakt.<br />
-  In deze presentatie wordt dit spektakel live getoond, en er wordt wat toelichting gegeven op de achterliggende tooling."
-  speakers: [27]
-  language: ""  
--
-  id: 305
-  title: "LandGoed Cloud"
-  subtype: presentation
-  description: "Door slim technieken te combineren is het mogelijk snel een server in de lucht te trekken met daarop een aantal dingen die je als geo nodig hebt. Binnen het tijdsbestek van deze presentatie wordt een server gestart, met PostGIS, GeoServer, en nog meer leuke dingen die je nodig hebt om een online GIS-omgeving te starten. Ideaal voor projecten, testdoeleinden of andere tijdelijke toepassingen."
-  speakers: [10]
-  language: "NL"
--
-  id: 306
-  title: "Zo gemakkelijk kun je geo-webdiensten uitrollen."
-  subtype: presentation
-  description: "Het installeren en onderhouden van Open Source server-componenten (denk: GeoServer, PostGIS etc) lijkt soms een brug te ver voor velen. De laatste jaren zijn er echter een aantal technologieën beschikbaar die het installeren, maar vooral ook het onderhouden/beheren vergemakkelijken. Het gaat om Cloud technologieën zoals Docker en GitHub. Voor Geonovum heb ik een platform opgezet om webdiensten voor de nieuwe OGC APIs voor Features (denk: WFS versie 3) te draaien. Het doel was om een aantal implementaties uit te proberen, maar vooral ook om de deployment (uitrol) laagdrempelig te maken zodat ook niet-programmeurs/systeem-beheerders dit platform kunnen onderhouden en uitbreiden. Door de combinatie van deze vier technieken is dit een succes geworden: Docker, GitHub, Ansible en GitHub Workflows. Deze zal ik toelichten. De server componenten zijn o.a. GeoServer, pygeoapi, QGIS Server en PostGIS. Meer weten? Uitgebreide documentatie op https://apitestdocs.geonovum.nl en aantal slides op https://files.justobjects.nl/presentation/opengeodag-2021/opengeodag-2021-just.pdf"
-  speakers: [7]
-  language: "NL"  
--
-  id: 307
-  title: "De nieuwe EU digitale en data regels"
-  subtype: presentation
-  description: "Er is een nieuw Europees juridisch raamwerk voorgesteld, bestaande uit een digitale en datastrategie. De doorontwikkeling van INSPIRE krijgt daarin een plek, maar het raamwerk is veel verstrekkender, en een geopolitieke stellingname van de EU. De komende jaren worden die wetten van kracht, met impact op gebruik van geodata, basisregistraties, open data. Inclusief een heldere band met beleidsthema's van de Green Deal, als energietransitie, klimaatadaptatie, smart mobility, bouwen en voedsel. Een verschuiving in kijken naar data governance, en samenwerking over sectoren en landen heen. Heldere kansen voor FOSS4G om met elkaar eens te bespreken."
-  speakers: [11]
-  language: "NL"
--
-  id: 308
-  title: "De onmisbare rol van open data en GIS in reisfotografie"
-  subtype: presentation
-  description: "Veel geografen en GIS'ers houden van fotografie, en een nog groter aantal houdt van reizen. Of je nu met de auto, fiets, boot of op een ezel de wereld verkent, kaarten zijn onmisbaar voor de reisvoorbereiding en navigatie ter plaatsen. Daarnaast speelt open data een belangrijke rol om de locatie van foto's (zonder coördinaten) te achterhalen. Met als rode draad de ontwikkeling van mijn boek Surprising Europe, neem ik je mee op de creatieve route van reisvoorbereiding tot kaartopmaak en laat ik zien hoe open data en GIS een hoofdrol hebben gespeeld in mijn reizen en werk als landschapsfotograaf. "
-  speakers: [14]
-  language: "NL"
--
-  id: 701
-  title: "Using the 3D BAG in Python"
-  subtype: presentation
-  description: "In this workshop we are going to walk you through the details of the 3D BAG data set, which is a collection of 3D building models at multiple levels of detail for the Netherlands. See https://3dbag.nl. We will introduce the data set, discussing the data model, available formats, data quality and some of the peculiarities.<br /><br /> In the hands-on part of the session, we will show how you can make the most out of the data by using Python, whether you integrate with other services or use it directly for analysis. In this part we will focus on CityJSON (http://www.cityjson.org) and cjio (https://github.com/cityjson/cjio), but we will also show other tools that can be helpful for working with the data."
-  speakers: [15, 16]
-  language: "EN/NL"
--
-  id: 702
-  title: "MapLibre: een nieuwe JS bibliotheek voor interactieve kaarten op het Web"
-  subtype: presentation
-  description: "MapLibre is het Open Source alternatief voor vectortegels. Hoe zet je het in en waarom?"
-  speakers: [5, 19]
-  language: "NL"
--  
-  id: 703
-  title: "Processing scripts in QGIS"
-  subtype: presentation
-  description: "QGIS heeft een geweldig tools voor processing, waar je ook zelf allerlei tools aan toe kunt voegen. In QGIS2 was dat heel eenvoudig, in QGIS3 lijkt dat veel moeilijker. Met de juiste manier van kijken valt dat in de praktijk wel mee.<br /><br />
-  In deze workshop leer je die manier van kijken en daarmee de manier waarop je eenvoudig je eigen tools kunt toevoegen aan QGIS. Ervaring met serieus programmeren (elke willekeurige programmeertaal) of knutselen in Python is vereist. <br /><br />We verwachten dat je zelf een laptop met een recente versie van QGIS3 meeneemt."
+  description: "Hoe verder met je OSPO?"
   speakers: []
   language: "NL"
--  
-  id: 704
-  title: "Collecting Field Data with Input/Mergin and QGIS"
-  subtype: presentation
-  description: "The aim of this workshop is to prepare a project in QGIS and then using Input app to collect data from mobile/tablet. This workshop will begin with an introduction to the Input app and Mergin plugin for QGIS. You will learn to set up a QGIS project for data collection. This portion will include setting up layers with needed fields and setting up an Attribute form with widgets to help with data collection. You will learn to use the Mergin plugin to move data back and forth between a computer and a mobile device. You will then collect some data outside. Lastly you will download the resulting data to your laptop and use QGIS to make a map of the results.<br /><br />
-  For this workshop, you will need <br />
-  - A PC/laptop running QGIS 3.16 or later version and the Mergin Plugin<br />
-  - A mobile/tablet (Android/iPhone/iPad) with 'https://inputapp.io' installed on<br />
-  - An account on 'https://public.cloudmergin.com/'"
-  speakers: [2]
-  language: "EN"
--  
-  id: 705
-  title: "QGIS expressies"
-  subtype: presentation
-  description: "Heb je je ook wel eens afgevraagd hoe je nu meer kunt halen uit het expressievenster? <br /><br />
-  Een sterk punt van QGIS is dat je taken naar een hogere functionaliteit kunt brengen met expressies. Expressies kun je niet alleen toepassen bij selectie en veldberekeningen, maar ook op opmaak van lagen en kaarten en project- of laageigenschappen. Je kunt het zo gek niet bedenken of je komt een expressievenster tegen. Supergaaf, en misschien in eerste instantie overweldigend maar daar brengt deze workshop verandering in.<br /><br />
-  Neem je eigen laptop mee, met daarop een recente versie van QGIS."
-  speakers: [18]
-  language: "NL" 
 -
-  id:  999
-  title: "JOSS is a good place to publish your code"
+  id: 101
+  title: "Duurzaam samenwerken aan OSS in de publieke sector"
+  description: "Duurzame Open Source Software (OSS) in de publieke sector staat of valt met goede samenwerking. Enerzijds tussen publieke organisaties en anderzijds met de expertise uit de markt. De manier waarop we samenwerking organiseren en praktisch begeleiden is cruciaal voor succesvolle en duurzame samenwerkingen op OSS. Aan de hand van praktijkvoorbeelden laten we zien hoe de publieke organisaties uit het Open Source Kennisnetwerk samenwerken met de markt aan OSS en wat het betekent voor ons als publieke organisaties betekent om regie te voeren over dergelijke samenwerkingen. "
   subtype: presentation
-  description: "Overview of the journal, why it's exciting. https://joss.theoj.org/"
-  speakers: [6]
-  language: "EN"
+  speakers: [101]
+  language: nl
+  complexity: [beginner]
+-
+  id: 102
+  title: "Een Landsdekkend Cesium Terrain vanuit de AHN"
+  description: "Opdracht voor Kadaster, Cesium, terrain tiler, conversie dtm naar terrain tiles, issues waar we tegenaan liepen"
+  subtype: presentation
+  speakers: [102]
+  language: nl
+  complexity: [beginner]
+-
+  id: 103
+  title: "Provincie Utrecht: OS Geospatial Mobility Analytics"
+  description: "Ik ben het onderwerp verder aan het uitdiepen. Ik wil het graag hebben over hoe wij open source gis gebruiken (voornamelijk in Python, volledige stack volgt later) om rituitval van trams in kaart te brengen. Rituitval en punctualiteit berekenen en in kaart brengen is een van de grotere uitdagingen waar OV bedrijven en autoriteiten tegenaan lopen (in Nederland). "
+  subtype: presentation
+  speakers: [103]
+  language: nl
+  complexity: [beginner]
+-
+  id: 104
+  title: "Deelscooterdata: van hobbyproject tot onderwijsmateriaal"
+  description: "Deelscooters zijn de afgelopen jaren rap verschenen in heel Nederland. Met behulp van python in postgresql halen we data op van een publieke api van een deelscooteraanbieder. Dit begon als hobbyprojectje om te kijken hoe dat werkt en of dit stabiel blijft draaien. Dat bleek te werken, want na twee jaar er niet naar omgekeken te hebben bleek er 120GB aan data te staan en liep de nachtelijke backup van de database in de soep. Om alle informatie te bewaren en tegelijk de data te versimpelen hebben we scripts gemaakt en de data teruggebracht naar 1,5GB en een bruikbare dataset voor studenten die gebruikt is in GIS onderwijs. "
+  subtype: presentation
+  speakers: [104, 105]
+  language: nl
+  complexity: [beginner]
+-
+  id: 105
+  title: "Nieuwbouwprojecten herkennen uit de BAG"
+  description: "Op verzoek van onderzoekers hebben we postgis tooling gebouwd om nieuwbouwprojecten te herkennen op basis van clustering van nieuwbouwpanden. Door te clusteren op zowel afstand als tijd kunnen we nieuwbouwprojecten van begin tot eind volgen en hebben meerdere onderzoekers bij de RUG nieuw onderzoek kunnen doen. We zijn nog van plan om deze data toe te voegen aan onze nieuwbouwmonitor (www.geodienst.xyz/nieuwbouwmonitor) In de toekomst kunnen we deze methodiek ook voor andere tijd-ruimte data toepassen. "
+  subtype: presentation
+  speakers: [105, 104]
+  language: nl
+  complexity: [beginner]
+-
+  id: 106
+  title: "map5topo - een nieuwe, frisse topokaart van Nederland"
+  description: "map5topo is de naam voor een serie topografische kaarten van Nederland (plus aangrenzend buitenland), die volledig samengesteld worden uit Open Data. Hierbij worden Basisregistraties (BRK, BAG, BRT, BGT, NWB,..), AHN ('hillshading', contourlijnen), en OpenStreetMap aangewend. Per laag en per zoom niveau wordt steeds de optimale data/feature-set(s) gekozen. Deze worden gegoten in een uniform datamodel (lees: PostGIS database schema) met daarin een overkoepelende, hiërarchische object-classificatie. Open source componenten die worden gebruikt zijn oa NLExtract en GDAL voor data-preparatie, PostGIS, Mapnik en MapProxy voor renderen/serveren van de (raster-)tiles. <br />We nemen je mee in het maak-proces: oa de uniforme object-herclassificatie-hoofdbrekens, styling (door NieneB!), automatisering, en de gang om dit project Open Source te maken. "
+  subtype: presentation
+  speakers: [106]
+  language: nl
+  complexity: [beginner]
+-
+  id: 107
+  title: "Vegetatie Monitoring via Sentinel-2 Satellietbeelden in Python"
+  description: "Het python script biedt meerdere mogelijkheden: a) Je geeft de naam van een provincie op en je krijgt een NDVI-analyse van de gehele provincie. b) Dit kan je ook doen voor meerdere momenten, zodat je een tijdreeks krijgt. c) Je kan ook een specifiek gebied inladen via een polygoon of via de coördinaten van de hoekpunten.<br />We hopen ook zo snel mogelijk meer opties te te voegen. Denk aan LSWI-analyses of het toevoegen van Sentinel-5p beelden."
+  subtype: presentation
+  speakers: [107]
+  language: nl
+  complexity: [beginner]
+-
+  id: 109
+  title: "QGIS voor hydrologische toepassingen"
+  description: "QGIS is de ideale GIS desktop software voor water managers en hydrologen. Deze presentatie geeft een overzicht van de nieuwste tools en plug-ins in QGIS."
+  subtype: presentation
+  speakers: [108]
+  language: nl
+  complexity: [beginner]
+-
+  id: 110
+  title: "EduGIS, OS GIS voor het onderwijs op het web"
+  description: "Leerlingen maken kennis met GIS via EduGIS, zonder software installatie, zonder data download. Welke (GIS) functies zijn belangrijk, welke zijn beschikbaar, welke data wordt aangeboden, hoe zien de kaarten er uit? Hoe maak je lessen, welke OS tools worden ingezet, wat gaat goed, wat kan beter?"
+  subtype: presentation
+  speakers: [110]
+  language: nl
+  complexity: [beginner]
+-
+  id: 111
+  title: "Continenten bewegen, jouw coördinaten ook?"
+  description: "Met de opname van RDNAPTRANS(TM)2018 in EPSG gebruikt QGIS en veel andere software deze officiële en op de millimeter nauwkeurige transformatie van de NSGI tussen coördinaten in RD en in ETRS89. Bij transformatie naar wereldwijde coördinaten in WGS 84 wordt meestal wel nog een benadering met een nauwkeurigheid van een meter gebruikt, omdat Europa met 2,4 centimeter per jaar beweegt. Wat adviseert de Handreiking CRS van Geonovum en NSGI hiervoor? En hoe zou jij als GIS-gebruiker willen dat opensource software tussen RD en wereldwijde coördinaten transformeert?"
+  subtype: presentation
+  speakers: [111]
+  language: nl
+  complexity: [beginner]
+-
+  id: 112
+  title: "Softwarearcheologie: updaten van oude geoservers en databases"
+  description: "Heb jij ook nog een drietal echt oude geoservers in je netwerk staan die waarschijnlijk van oude databases gebruik maken en waarvan misschien driekwart wel weg kan? En als je dan een algemeen bedrijfsbreed mailtje stuurt \"geef door wat er weg kan\" dan antwoordt de collega die inmiddels een andere baan heeft raar genoeg niet meer. Enfin, ik geef wat tips hoe je met wat linux spul en wat python de boel duidelijker krijgt zodat je alles naar een versie nieuwe geoserver over kunt zetten."
+  subtype: presentation
+  speakers: [112]
+  language: nl
+  complexity: [beginner]
+-
+  id: 113
+  title: "Open Source Software Beleid Provincie Zeeland"
+  description: "\"Open, tenzij ...\" <br />Een mooi uitgangspunt, zeker. Maar wat is nu eigenlijk die \"tenzij\"?<br />De Provincie Zeeland zet strategisch in op het gebruik van open source software.<br />Om tot gerichte keuzes te komen hanteert de Provincie daarbij een afwegingskader en beslisboom. Het OSPO van de Provincie Zeeland speelt hier een belangrijke rol in.<br /><br />Deze presentatie gaat in op het 'waarom' van het open-source-softwarebeleid van de Provincie Zeeland en over 'hoe' wij onze keuzes daarin maken. "
+  subtype: presentation
+  speakers: [113]
+  language: nl
+  complexity: [beginner]
+-
+  id: 114
+  title: "de open Zeeuwse streekproducten "
+  description: "de meetgegevens vanuit het veld brengen we naar de beleidsspecialist. We meten met de multiflexmeter (MFM, arduinochip) gegevens in het veld, transporteren die via het open Loranetwerk, verzamelen het met SensorBucket en ontsluiten die in onze open-source omgeving. open hardware, open data, open standaarden, open source. "
+  subtype: presentation
+  speakers: [114, 133, 134, 135, 136] 
+  language: nl
+  complexity: [beginner]
+-
+  id: 115
+  title: "Hoe breed is een weg? Een analyse in PostGIS"
+  description: "Wegen zitten in de BGT als vlakken. Als je vlakken hebt kun je dus ook de breedte daarvan bepalen, die info kan érg nuttig zijn. Maar hoe doe je dat? In deze presentatie laat ik zien hoe je in PostGIS razendsnel de breedte van wegdelen uit de BGT kan berekenen."
+  subtype: presentation
+  speakers: [115]
+  language: nl
+  complexity: [beginner]
+-
+  id: 116
+  title: "S2. coördinaat als 1 getal."
+  description: "S2 implementatie achter dego.vng.nl en wijkpaspoort.vng.nl.  extreem snelle analyse met behulp van het gebruik van S2 algoritme op geodata."
+  subtype: presentation
+  speakers: [116]
+  language: nl
+  complexity: [beginner]
+-
+  id: 117
+  title: "De meerwaarde van QGIS en GDAL bij de gemeente Veendam: 4 voorbeelden"
+  description: "Takeaways 4 vraagstukken benoemen, waarbij de meerwaarde van inzet QGIS en GDAL wordt benadrukt. Vraagstukken: uitwerking scenario windpark, comprimeren gemeentelijke luchtfoto, bijhouden WOZ-objectenkaart en toekennen adressen in opgeheven stemdistrict aan andere stemdistricten."
+  subtype: presentation
+  speakers: [117]
+  language: nl
+  complexity: [beginner]
+-
+  id: 118
+  title: "Knelpunten in het mobiele netwerk"
+  description: "De vraag naar mobiele data blijft stijgen, maar er is ook weerstand tegen het plaatsen van nieuwe opstelpunten. Aan de hand van publieke data over de topologie van mobiele netwerken in Nederland (capaciteitsaanbod) en de ruimtelijke verdeling van populatiecijfers (proxies voor vraag naar mobiele data) hebben we een model opgesteld waarmee toekomstige locaties met knelpunten (capaciteitstekort) in de mobiele infrastructuur kunnen worden gesignaleerd. <br />In deze presentatie zal een kort overzicht worden gegeven van hoe dit model in elkaar zit en hoe verschillende GIS-gerelateerde methoden hierin zijn gebruikt.<br />Het model komt voort uit een onderzoek van Dialogic in opdracht van het Ministerie van Economische Zaken en Klimaat."
+  subtype: presentation
+  speakers: [118]
+  language: nl
+  complexity: [beginner]
+-
+  id: 119
+  title: "Cartographic interaction, a two-way dialogue between a user and a map mediated by a computing device"
+  description: "<br /><br />These days we have an incredible amount of (open-source) geo-spatial data, remote sensing data and insights, plus the tools to share them with the world! But when building a web map application or dashboard we often end up with too cluttered visualizations, confusing jargon, scary technology or struggle in communicating with the geo-data illiterate. GIS technology can be hard to understand.<br /><br />How do we design and build a map application showing a huge amount of geo-data accompanied by the elaborate functionality to discover it?<br />As GIS experts we think from a technological perspective, adding more and more buttons, layers, panels, pop-ups, legends, draw tools, scale-bars. But these GIS terms makes an application confusing, scary and technically hard to understand for the user..<br />On the other hand, UX and IX designers think about usability, smooth experiences and helping users to easily navigate, see, use and interpret an application. But they lack the understanding of specific map related design requirements and map related interactivity. Here, the map is taken for granted and is often not well designed..<br /><br />I often find myself mediating between the GIS and cartographic professionals, web-developers, UX and IX designers and data-designers. I believe there is still a lot we can improve with each other!<br />So let’s bridge the gap and join the conversation about Interactive Cartography! In this talk I will give some clear useful examples. What is Interactive Cartography and what can we learn in this? Be amazed with some simple examples which can quickly improve your web map application!<br />"
+  subtype: presentation
+  speakers: [119]
+  language: nl/en
+  complexity: [beginner]
+-
+  id: 120
+  title: "Geografische analyses bij fusiebeoordelingen"
+  description: "Python; Folium; drivetime; API; marktmacht (omzet/klantenaantallen); polygonen"
+  subtype: presentation
+  speakers: [120]
+  language: nl
+  complexity: [beginner]
+-
+  id: 121
+  title: "3DToolboxNL"
+  description: "De Provincie Zeeland werkt, ondersteund door LandGoed ICT, aan een open source Digital Twin (https://virtueel.zeeland.nl). Open source software die we hier voor (laten) maken, delen we in de 3D Toolbox (https://github.com/ProvincieZeeland/3DToolbox). Er is een NL 3D open source community in oprichting.<br /><br />We ontsluiten 3D data en 3D modellen zoals GeoTop uit de Basisregistratie Ondergrond (BRO), overstromingsscenario's of hoogtebestanden (DEM) van de Zeeuwse kust als open 3D services. De Provincie Zeeland gebruikt deze 3D services in een digital twin omgeving (op basis van Cesium). <br /><br />Marco Duiker (LandGoed ICT), Marco van Antwerpen (Provincie Zeeland) en Thieu Caris (Provincie Zeeland) vertellen over de digital twin, het Open Source Program Office (OSPO) Provincie Zeeland, waarom de 3D Toolbox gerealiseerd wordt in een open source omgeving, hoe we dat (technisch) doen, het belang van het delen van kennis en “open” en flexibel kunnen samenwerken. We willen vooral veel laten zien. <br />"
+  subtype: presentation
+  speakers: [121, 137, 138]
+  language: nl
+  complexity: [beginner]
+-
+  id: 124
+  title: "AERIUS stikstof-data in QGIS"
+  description: "Maak je gebruik van AERIUS voor het berekenen van stikstofdeposities en wil je de IMAER-GML-bestanden gebruiken voor aanvullende analyses en visualisaties? De IMAER-plugin voor QGIS biedt tal van tools om je geo-informatie eenvoudig met AERIUS uit te wisselen. In deze presentatie een (altijd spannende live) demo van de mogelijkheden."
+  subtype: presentation
+  speakers: [124]
+  language: nl
+  complexity: [beginner]
+-
+  id: 125
+  title: "A Cutting-Edge Approach to Assessing Equity in Transboundary Water Resource Management through Remote Sensing Data"
+  description: "<br />This study aims to develop a conceptual framework to assess and quantify equity using open access remote sensing hydrological data and QGIS for the transboundary water resources of the Nile basin. Transboundary water management is a complex issue that requires a multi-faceted approach to ensure equitable distribution of water resources. The shortage of materials and methods to assess equity to help riparian countries establish operational arrangements for transboundary water management made it difficult to understand the demand and use of water in the basin, and thus created conflicts. By analyzing satellite imagery and other data sources, it can help to identify areas where water resources are scarce and where demand for water may be exceeding supply. The results of this study can be used to develop policies and promote cooperation and more equitable water management practices."
+  subtype: presentation
+  speakers: [125]
+  language: en
+  complexity: [beginner]
+-
+  id: 126
+  title: "OpenStreetMap (titel nader te bepalen)"
+  description: "OSM basics, survey apps zoals StreetComplete & EveryDoor (buiten workshop?), als we heel veel tijd hebben misschien nog iets over Overpass (Turbo) of JOSM (als daar interesse voor is)"
+  subtype: presentation
+  speakers: [126]
+  language: nl
+  complexity: [beginner]
+-
+  id: 127
+  title: "CJDB: 3D city models to the database fast and efficiently"
+  description: "When it comes to storing 3D city models in a database, the implementation of the CityGML data model can be quite demanding and often results in complicated schemas. As an example, 3DCityDB, a widely used solution, depends on a schema having 66 tables, mapping closely the CityGML architecture. We propose an alternative (called 'cjdb') for storing CityGML models efficiently in PostgreSQL with a much simpler table structure and data model design (only 3 tables are necessary).This is achieved by storing the attributes and geometries of the objects directly in JSON. In the case of the geometries we thus adopt the Simple Feature paradigm and we use the structure of CityJSON. We compare our solution against 3DCityDB with large real-world 3D city models, and we find that cjdb has significantly lower demands in storage space (around a factor of 10), allows for faster import/export of data, and has a comparable data retrieval speed with some queries being faster and some slower."
+  subtype: presentation
+  speakers: [127]
+  language: en
+  complexity: [beginner]
+-
+  id: 128
+  title: "How Open data and open source software can help us managing green assets for more climate resilient cities."
+  description: "	- Open data (Lidar data, Aerial, and satellite images)<br />	- Open source software (Python - GDAL - PDAL - QGIS)<br />	- Tree database for the whole Netherlands<br />	- Tree detection, analysis, and monitoring<br />	- Green assets as a tool to boost climate change adaptation measures, and biodiversity in cities<br />       - Green as a quality indicator of life"
+  subtype: presentation
+  speakers: [128]
+  language: en
+  complexity: [beginner]
+-
+  id: 129
+  title: "Teaching GI with FOSS: A multipurpose learning kit to build an application using integrated active learning strategies"
+  description: "The objective of this talk is to present our multi-purpose training set \"Geo-web app building with open-source GIS tools\". The course focuses on the process of designing and building a web application for geodata dissemination from a spatial problem-solving perspective using exclusively FOSS. It was created with the goal to address both academics or staff members working with GI at non-academic organisations. Its flexible structure allows for fairly fast customization and can be taught both face to face and remotely. <br /><br />At the start of the course, students are presented with a web application that has been developed in response to a geospatial challenge. Throughout the course, participants will learn the theoretical concepts and practical skills necessary to be able to recreate this application themselves. From scratch, step-by-step, they will rebuild that full functional application while learning core notions of spatial data management, analysis, and visualization, basic programming skills, as well as hands-on training for installing and setting-up of a geo database, web server, map-server and used frameworks.<br /><br />The course merges elements from direct, interactive, and experiential instructional strategies. Purely teacher-centered delivery methods (i.e. explicit teaching) are combined with co-operative learning experiences (i.e. assigned groups for hands-on sessions), and an underlying activator that motivates the students to engage with and take ownership of their own learning process (i.e. recreating the web-application as final project) "
+  subtype: presentation
+  speakers: [129]
+  language: en
+  complexity: [beginner]
+-
+  id: 130
+  title: "Leveraging Remote Sensing, GIS, and Open-Access Data to Investigate Nocturnal Cold Air Formation in Dutch Dune Slacks"
+  description: "The coast area of Netherlands comprises around 45,000 ha of dunes which serve as a protection against flood and source of drinking water among other uses (Arens et al. 2013). Within the dune landscape, dune slacks are present which are depressions with low altitude that contain a distinct micro-climate as compared to the surrounding dune environment.<br />This research aims to understand the nocturnal cold air formation inside the coastal dune slacks of the Netherlands by comparing the recorded time series temperature data with the geomorphology, soil type, soil moisture, wind speed and vegetation cover of 35 dune slacks. <br />The methodology leverages a wealth of open-access data, including freely available high-resolution point cloud, digital images, remote sensing (RS) products, and field measurements. The high-resolution point cloud data enables the analysis of general geomorphological characteristics using QGIS tools and plugins, while RS NDVI data provides valuable insights into vegetation cover. Ground measurements and SAR data are used to acquire soil moisture information. <br />At the end, all the analysis made in QGIS is going to be compared with the logged temperature data in each dune slack using some statistical tools. <br /><br />Therefore, in the FOSS4G NL, I want to share how I used the open source data and software’s to conduct my Thesis in the Netherlands. <br />"
+  subtype: presentation
+  speakers: [130]
+  language: en
+  complexity: [beginner]
+-
+  id: 703
+  title: "Simpel webkaarten maken met Tailormap 11"
+  description: "In deze workshop leer je, zoals de titel al zegt, op simpele wijze webkaarten te maken met Tailormap 11. We gebruiken PDOK services (en nog wat andere dingen, bijvoorbeeld de WMS/WFS-services van je eigen organisatie) waarmee je je webkaarten zelf in kan richten. <br />Dit opensource-webGIS programma draait op een server, maar kan ook op je eigen laptop draaien via een Docker container. We zorgen ervoor dat je zeker aan de slag kan!"
+  subtype: workshop
+  speakers: [122]
+  language: nl
+  complexity: [beginner]
+-
+  id: 702
+  title: "Geoserver voor beginners"
+  description: "Deelnemers kennis laten maken met GeoServer door data te uploaden, opmaak te uploaden en de opmaak in GeoServer zelf aan te passen. "
+  subtype: workshop
+  speakers: [123]
+  language: nl
+  complexity: [beginner]
+  -
+  id: 704
+  title: "Raster analyses met PCRaster in QGIS en Python"
+  description: "Tijdens deze workshop leer je raster analyses te doen met de PCRaster Tools plugin voor QGIS, processen te automatiseren met grafische modellen in QGIS en map algebra toe te passen in Python scripts."
+  subtype: presentation
+  speakers: [108]
+  language: nl
+  complexity: [beginner]

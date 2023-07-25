@@ -268,7 +268,7 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/yonas-negusse-asfaha-a1091422a/"}
   rockstar: true
-
+-
   id: 131
   name: "Pieter"
   surname: "Bliek"
@@ -277,7 +277,7 @@
   social: 
     - {name: "linkedin", link: ""}
   rockstar: true
-
+-
   id: 132
   name: "Bert"
   surname: "Temme"
