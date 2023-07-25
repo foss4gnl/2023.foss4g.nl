@@ -47,6 +47,9 @@
   speakers: []
   language: "NL"
 -
+  id: 999
+  title: ""
+-
   id: 101
   title: "Duurzaam samenwerken aan OSS in de publieke sector"
   description: "Duurzame Open Source Software (OSS) in de publieke sector staat of valt met goede samenwerking. Enerzijds tussen publieke organisaties en anderzijds met de expertise uit de markt. De manier waarop we samenwerking organiseren en praktisch begeleiden is cruciaal voor succesvolle en duurzame samenwerkingen op OSS. Aan de hand van praktijkvoorbeelden laten we zien hoe de publieke organisaties uit het Open Source Kennisnetwerk samenwerken met de markt aan OSS en wat het betekent voor ons als publieke organisaties betekent om regie te voeren over dergelijke samenwerkingen. "
