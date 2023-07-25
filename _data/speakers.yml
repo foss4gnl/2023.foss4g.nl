@@ -227,7 +227,7 @@
   id: 126
   name: "Casper"
   surname: "Kersten"
-  company: "company"
+  company: "OpenStreetMap-NL"
   thumbnailUrl: "casper_kersten.jpg"
   social: 
     - {name: "site", link: "https://community.openstreetmap.org/u/friendly_ghost/"}
