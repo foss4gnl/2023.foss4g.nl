@@ -17,7 +17,7 @@
   group: "Zilver"
   elements:
     - {
-        name: "JustObjects", 
+        name: "Just Objects",
         description: "", 
         link: "https://justobjects.nl/", 
         imageUrl: "logo-justobjects.png"
@@ -28,21 +28,9 @@
         link: "https://geo-academie.nl/", 
         imageUrl: "logo-geoacademie-300x80.png"
       }      
-    - {
-        name: "Steggink Geo-ICT", 
-        description: "", 
-        link: "https://www.steggink.it/", 
-        imageUrl: "steggink_32px.png"
-      }
 -
   group: "Brons"
   elements:
-    - {
-        name: "Locate Press", 
-        description: "", 
-        link: "https://locatepress.com/", 
-        imageUrl: "locate_press_log_v3_tag.png"
-      }
     - {
         name: "Ruimteschepper", 
         description: "", 

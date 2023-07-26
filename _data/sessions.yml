@@ -227,10 +227,10 @@
   complexity: [beginner]
 -
   id: 126
-  title: "OpenStreetMap (titel nader te bepalen)"
-  description: "OSM basics, survey apps zoals StreetComplete & EveryDoor (buiten workshop?), als we heel veel tijd hebben misschien nog iets over Overpass (Turbo) of JOSM (als daar interesse voor is)"
-  subtype: presentation
-  speakers: [126]
+  title: "OpenStreetMap: Slim de kaart editen met apps!"
+  description: "Een basis workshop OSM Mapping. Leer de OSM basics, werken met de ID-editor, maak kennis met de OSM-NL community. Maar vooral met recente slimme OSM surveyor apps zoals StreetComplete en EveryDoor gaan we naar buiten! Kijken wat in Middelburg ontbreekt en op de kaart zetten! Indien tijd over: hoe werken met de Overpass APIs om data uit OSM te halen, in QGIS bijvoorbeeld, en/of werken met de advanced JOSM Editor."
+  subtype: workshop
+  speakers: [126,106]
   language: nl
   complexity: [beginner]
 -
@@ -291,12 +291,4 @@
   speakers: [108]
   language: nl/en
   complexity: [beginner]
--
-  id: 701
-  title: "OpenStreetMap: leer slim zelf editen!"
-  description: "OSM basics, survey apps zoals StreetComplete & EveryDoor (buiten workshop?), als we heel veel tijd hebben misschien nog iets over Overpass (Turbo) of JOSM (als daar interesse voor is)"
-  subtype: presentation
-  speakers: [140]
-  language: nl
-  complexity: [beginner]
-  
+

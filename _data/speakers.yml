@@ -47,7 +47,7 @@
   id: 106
   name: "Just"
   surname: "van den Broecke"
-  company: "Map5 & JustObjects"
+  company: "Just Objects"
   thumbnailUrl: "just_broecke.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/justb4/"}
@@ -84,7 +84,7 @@
   name: "Anne"
   surname: "Blankert"
   company: "Geodan"
-  thumbnailUrl: "placeholder.jpg"
+  thumbnailUrl: "anne_blankert.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/anne-blankert-1b45473/"}
   rockstar: true
@@ -227,10 +227,10 @@
   id: 126
   name: "Casper"
   surname: "Kersten"
-  company: "company"
-  thumbnailUrl: "placeholder.jpg"
+  company: "OpenStreetMap-NL"
+  thumbnailUrl: "casper_kersten.jpg"
   social: 
-    - {name: "linkedin", link: ""}
+    - {name: "site", link: "https://community.openstreetmap.org/u/friendly_ghost/"}
   rockstar: true
 -
   id: 127
@@ -342,19 +342,10 @@
   rockstar: true
 -
   id: 139
-  name: "FrITs"
+  name: "Frits"
   surname: "Bussemaker"
   company: "Institute for Accountability in the Digital Age"
   thumbnailUrl: "frits_bussemaker.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/fritsbussemaker/"}
-  rockstar: true
--
-  id: 140
-  name: "Casper"
-  surname: "Kersten"
-  company: "OSM community"
-  thumbnailUrl: "placeholder.jpg"
-  social: 
-    - {name: "linkedin", link: ""}
   rockstar: true
