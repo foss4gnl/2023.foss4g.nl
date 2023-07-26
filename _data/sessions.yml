@@ -284,7 +284,9 @@
 -
   id: 704
   title: "Point cloud processing met QGIS en PDAL wrench"
-  description: "Komt er aan!"
+  description: "In this workshop you'll learn how to use the new native point cloud processing tools in QGIS 3.32 Lima for processing AHN4 data. Furthermore, you'll be introduced to PDAL wrench to automate point cloud processing in an easy way. Please have QGIS 3.32 installed and you're encouraged to download the AHN4 tiles you want to work with from GeoTiles.nl.<br /><br />
+  In deze workshop leer je hoe je de nieuwe native point cloud processing tools in QGIS 3.32 Lima kunt gebruiken voor het verwerken van AHN4-gegevens. Bovendien word je geïntroduceerd in het gebruik van PDAL wrench om point cloud procedures en analyses op een eenvoudige manier te automatiseren. Zorg ervoor dat QGIS 3.32 is geïnstalleerd en je neem je eigen AHN4-tiles waar je mee wilt werken mee. Je kunt ze downloaden van GeoTiles.nl.
+"
   subtype: presentation
   speakers: [108]
   language: nl/en
