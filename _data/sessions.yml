@@ -268,6 +268,14 @@
   language: en
   complexity: [beginner]
 -
+  id: 131
+  title: "Open Source Program Office (OSPO) Provincie ZeelandZeeland"
+  description: "De Provincie Zeeland werkt al langer met OSS. We merken dat we ons anders om OSS heen moeten organiseren. Een OSPO is daar een middel voor. De presentatie gaat over wat en OSPO is, de strategie die we als OSPO hebben, de werkzaamheden en de bemensing. Een OSPO gaat niet enkel om ICT of software maar om de hele organisatie mee te nemen in een werkcultuur die meer gestoeld is op de principes van open source. Informeren, coachen en begeleiden. In juni 2023 is het Nederlands OSPO kennisnetwerk gestart. Wat hebben we daarvan geleerd? <br />"
+  subtype: presentation
+  speakers: [138]
+  language: nl
+  complexity: [beginner]
+-
   id: 703
   title: "Simpel webkaarten maken met Tailormap 11"
   description: "In deze workshop leer je, zoals de titel al zegt, op simpele wijze webkaarten te maken met Tailormap 11. We gebruiken PDOK services (en nog wat andere dingen, bijvoorbeeld de WMS/WFS-services van je eigen organisatie) waarmee je je webkaarten zelf in kan richten. <br />Dit opensource-webGIS programma draait op een server, maar kan ook op je eigen laptop draaien via een Docker container. We zorgen ervoor dat je zeker aan de slag kan!"
