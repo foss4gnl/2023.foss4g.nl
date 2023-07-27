@@ -349,3 +349,13 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/fritsbussemaker/"}
   rockstar: true
+-
+  id: 140
+  name: "Bart"
+  surname: "Louwers"
+  company: "MapLibre"
+  thumbnailUrl: "bart_louwers.jpeg"
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bart-louwers/"}
+  rockstar: true
+

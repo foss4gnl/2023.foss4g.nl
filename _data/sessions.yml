@@ -276,6 +276,14 @@
   language: nl
   complexity: [beginner]
 -
+  id: 132
+  title: "The Story of MapLibre Native"
+  description: "Ik wil het verhaal van MapLibre vertellen. Anders dan veel andere FOSSG projecten begon dat met een fork van Mapbox toen zij de licensie van hun kaart-rendering software veranderden. Sindsdien zijn we aardig succesvol geweest met het werven van sponsoren en hebben we een aardige community weten op te bouwen rond MapLibre voor web aan de ene kant en voor native platforms (voornamelijk iOS en Android) aan de andere kant. Ik zelf werk sinds begin dit jaar als full-time maintainer voor MapLibre Native, en ik vertel ook over de ontwikkelingen daar, met name het implementeren van een alternatieve rendering backend. <br />"
+  subtype: presentation
+  speakers: [140]
+  language: nl
+  complexity: [beginner]
+-
   id: 703
   title: "Simpel webkaarten maken met Tailormap 11"
   description: "In deze workshop leer je, zoals de titel al zegt, op simpele wijze webkaarten te maken met Tailormap 11. We gebruiken PDOK services (en nog wat andere dingen, bijvoorbeeld de WMS/WFS-services van je eigen organisatie) waarmee je je webkaarten zelf in kan richten. <br />Dit opensource-webGIS programma draait op een server, maar kan ook op je eigen laptop draaien via een Docker container. We zorgen ervoor dat je zeker aan de slag kan!"
