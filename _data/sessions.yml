@@ -148,7 +148,7 @@
   language: nl
   complexity: [beginner]
 -
-  id: 1141
+  id: 141
   title: "de open Zeeuwse streekproducten (1/4)"
   description: "de meetgegevens vanuit het veld brengen we naar de beleidsspecialist. We meten met de multiflexmeter (MFM, arduinochip) gegevens in het veld, transporteren die via het open Loranetwerk, verzamelen het met SensorBucket en ontsluiten die in onze open-source omgeving. open hardware, open data, open standaarden, open source. "
   subtype: presentation
@@ -156,7 +156,7 @@
   language: nl
   complexity: [beginner]
   -
-  id: 1142
+  id: 142
   title: "de open Zeeuwse streekproducten (2/4)"
   description: "de meetgegevens vanuit het veld brengen we naar de beleidsspecialist. We meten met de multiflexmeter (MFM, arduinochip) gegevens in het veld, transporteren die via het open Loranetwerk, verzamelen het met SensorBucket en ontsluiten die in onze open-source omgeving. open hardware, open data, open standaarden, open source. "
   subtype: presentation
@@ -164,7 +164,7 @@
   language: nl
   complexity: [beginner]
   -
-  id: 1143
+  id: 143
   title: "de open Zeeuwse streekproducten (3/4)"
   description: "de meetgegevens vanuit het veld brengen we naar de beleidsspecialist. We meten met de multiflexmeter (MFM, arduinochip) gegevens in het veld, transporteren die via het open Loranetwerk, verzamelen het met SensorBucket en ontsluiten die in onze open-source omgeving. open hardware, open data, open standaarden, open source. "
   subtype: presentation
@@ -172,7 +172,7 @@
   language: nl
   complexity: [beginner]
   -
-  id: 1144
+  id: 144
   title: "de open Zeeuwse streekproducten (4/4)"
   description: "de meetgegevens vanuit het veld brengen we naar de beleidsspecialist. We meten met de multiflexmeter (MFM, arduinochip) gegevens in het veld, transporteren die via het open Loranetwerk, verzamelen het met SensorBucket en ontsluiten die in onze open-source omgeving. open hardware, open data, open standaarden, open source. "
   subtype: presentation
