@@ -270,7 +270,7 @@
 -
   id: 128
   title: "How Open data and open source software can help us managing green assets for more climate resilient cities."
-  description: "	- Open data (Lidar data, Aerial, and satellite images)<br />	- Open source software (Python - GDAL - PDAL - QGIS)<br />	- Tree database for the whole Netherlands<br />	- Tree detection, analysis, and monitoring<br />	- Green assets as a tool to boost climate change adaptation measures, and biodiversity in cities<br />       - Green as a quality indicator of life"
+  description: "Open data and open source software are of foremost importance to support climate change adaptation measures and ensure a liveable urban environment for future generations.<br /><br /> By exploiting the capabilities of open source tools we combine and analyse open data to gain insights into the green environment. These can then be exploited to leverage the benefits of nature-based solutions to ensure a liveable and healthy environment for present and future generations.  We then distribute the results and analyses using open source webservices.<br /><br /> In this presentation you will see how a knowledgeable understanding and management of available and new green assets, can help municipalities make the right decisions about the liveability of their landscapes."
   subtype: presentation
   speakers: [128]
   language: en
