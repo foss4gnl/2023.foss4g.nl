@@ -308,7 +308,7 @@
   id: 135
   name: "Tim"
   surname: "van Osch"
-  company: "Pollex & Provincie Zeeland"
+  company: "Pollex' "
   thumbnailUrl: "tim_osch.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/tvanosch/"}
