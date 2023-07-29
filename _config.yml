@@ -37,10 +37,10 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Nieuws"}
-# - {permalink: "/workshops/", text: "Workshops"}
-# - {permalink: "/conference/", text: "Programma"}
+ - {permalink: "/workshops/", text: "Workshops"}
+ - {permalink: "/conference/", text: "Programma"}
 # - {permalink: "/photos/", text: "Foto's"}
-# - {permalink: "/speakers/", text: "Sprekers"}
+ - {permalink: "/speakers/", text: "Sprekers"}
 bottomNavigationLinks:
 #  - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2023-671614857117", text: "Aanmelden"}
 #  - {link: "https://foss4g.nl", text: "Presentaties"}
@@ -58,8 +58,8 @@ statisticBlockImage: "delft_ahn3.jpg"
 statisticBlock:
  - {count: "4", specialCharacter: "", info: "workshops", detail: ""}
  - {count: "2", specialCharacter: "", info: "keynotes", detail: ""}
- - {count: "24", specialCharacter: "", info: "sessies", detail: ""}
- - {count: "3", specialCharacter: "", info: "parallele tracks", detail: ""}
+ - {count: "28", specialCharacter: "", info: "sessies", detail: ""}
+ - {count: "4", specialCharacter: "", info: "parallele tracks", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Nieuws"
