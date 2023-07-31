@@ -102,7 +102,7 @@
 -
   id: 107
   title: "Vegetatie Monitoring via Sentinel-2 Satellietbeelden in Python"
-  description: "Het python script biedt meerdere mogelijkheden: a) Je geeft de naam van een provincie op en je krijgt een NDVI-analyse van de gehele provincie. b) Dit kan je ook doen voor meerdere momenten, zodat je een tijdreeks krijgt. c) Je kan ook een specifiek gebied inladen via een polygoon of via de coördinaten van de hoekpunten.<br />We hopen ook zo snel mogelijk meer opties te te voegen. Denk aan LSWI-analyses of het toevoegen van Sentinel-5p beelden."
+  description: "Met behulp van dit laagdrempelige Python script willen we satellietbeelden toegankelijk maken voor iedereen. We gebruiken hiervoor de satellietbeelden van de Sentinel-2 satelliet. Hier kan je de naam van een provincie opgeven, om de beelden te krijgen van die provincie. Ook kan je een tijdsperiode opgeven om meerdere beelden van hetzelfde gebied te analyseren. In deze sessie nemen we je mee door alle mogelijkheden van het script en vertellen we wat jullie nog kunnen verwachten in de toekomst."
   subtype: presentation
   speakers: [107]
   language: nl
