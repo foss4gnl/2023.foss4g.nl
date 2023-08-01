@@ -358,4 +358,22 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/bart-louwers/"}
   rockstar: true
+-
+  id: 141
+  name: "Wouter"
+  surname: "van der Hulst"
+  company: "Alliander"
+  thumbnailUrl: "wouter_van_der_hulst.jpg"
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/wouter-van-der-hulst-a9933a137/"}
+  rockstar: true
+-
+  id: 142
+  name: "Arash"
+  surname: "Hoseni"
+  company: "Alliander"
+  thumbnailUrl: "arash_hoseni.jpg"
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/arash-hoseni-b9253b83/"}
+  rockstar: true
 

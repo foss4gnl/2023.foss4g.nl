@@ -308,6 +308,14 @@
   language: nl
   complexity: [beginner]
 -
+  id: 133
+  title: "Het opstarten van Open Source GIS (Geoserver) binnen Alliander"
+  description: "Binnen Alliander zijn we begin dit jaar begonnen met het diversificeren van ons Geo-landschap. Het geo-landschap wat nu nog zwaar op ESRI, Oracle & Smallworld leunt. We willen graag richting een hybride landschap waarin Open Source een prominente rol zal moeten gaan spelen. De eerste stap die we hebben gezet is het neerzetten van Geoserver in onze cloud omgeving. We willen je graag meenemen in de lessen die wij hebben geleerd met betrekking tot API management, Azure AD, integratie en authenticatie. We hebben o.a de cloud versie als de reguliere versie neergezet en getest."
+  subtype: presentation
+  speakers: [141,142]
+  language: nl
+  complexity: [beginner]
+-
   id: 703
   title: "Simpel webkaarten maken met Tailormap 11"
   description: "In deze workshop leer je, zoals de titel al zegt, op simpele wijze webkaarten te maken met Tailormap 11. We gebruiken PDOK services (en nog wat andere dingen, bijvoorbeeld de WMS/WFS-services van je eigen organisatie) waarmee je je webkaarten zelf in kan richten. <br />Dit opensource-webGIS programma draait op een server, maar kan ook op je eigen laptop draaien via een Docker container. We zorgen ervoor dat je zeker aan de slag kan!"
@@ -327,8 +335,7 @@
   id: 704
   title: "Point cloud processing met QGIS en PDAL wrench"
   description: "In this workshop you'll learn how to use the new native point cloud processing tools in QGIS 3.32 Lima for processing AHN4 data. Furthermore, you'll be introduced to PDAL wrench to automate point cloud processing in an easy way. Please have QGIS 3.32 installed and you're encouraged to download the AHN4 tiles you want to work with from GeoTiles.nl.<br /><br />
-  In deze workshop leer je hoe je de nieuwe native point cloud processing tools in QGIS 3.32 Lima kunt gebruiken voor het verwerken van AHN4-gegevens. Bovendien word je geïntroduceerd in het gebruik van PDAL wrench om point cloud procedures en analyses op een eenvoudige manier te automatiseren. Zorg ervoor dat QGIS 3.32 is geïnstalleerd en je neem je eigen AHN4-tiles waar je mee wilt werken mee. Je kunt ze downloaden van GeoTiles.nl.
-"
+  In deze workshop leer je hoe je de nieuwe native point cloud processing tools in QGIS 3.32 Lima kunt gebruiken voor het verwerken van AHN4-gegevens. Bovendien word je geïntroduceerd in het gebruik van PDAL wrench om point cloud procedures en analyses op een eenvoudige manier te automatiseren. Zorg ervoor dat QGIS 3.32 is geïnstalleerd en je neem je eigen AHN4-tiles waar je mee wilt werken mee. Je kunt ze downloaden van GeoTiles.nl."
   subtype: presentation
   speakers: [108]
   language: nl/en
