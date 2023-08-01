@@ -4,7 +4,7 @@
 # subtype: "presentation"    geen idee wat dit doet
 # description: "" is de beschrijving in de pop-up onder Language
 # speakers [x]  het nummer x verwijst naar het id nummer van de speaker in _data/speakers.yml
-# langauage: ""  geeft de taal van de presentatie, in de pop-up onder de titel
+# language: ""  geeft de taal van de presentatie, in de pop-up onder de titel
 # hoe om te gaan met 1 spreker die twee dingen doet?
 # hoe om te gaan met 2 sprekers die samen 1 ding doen?
 
@@ -62,7 +62,7 @@
 -
   id: 102
   title: "Een Landsdekkend Cesium Terrain vanuit de AHN"
-  description: "Opdracht voor Kadaster, Cesium, terrain tiler, conversie dtm naar terrain tiles, issues waar we tegenaan liepen"
+  description: "Een 3D viewer is niet veel waard zonder een accurate weergave van het terrein, ook al is het Hollandse 'plat' vaak bijna niet van 'echt plat' te onderscheiden... In deze presentatie duiken we in de wereld van 3D terreinen in Cesium. Hoe kies je het juiste (verticale) CRS? Hoe verwerk je honderden gigabytes aan AHN4 terreinmodellen? En vooral: hoe genereer je uit een hoogteraster een set aan tiles voor je Cesium client? Met behulp de twee Docker images die we voor dit proces hebben gemaakt, heb je in no time je eigen terrein gegenereerd."
   subtype: presentation
   speakers: [102,132]
   language: nl
