@@ -182,7 +182,7 @@
 -
   id: 115
   title: "Hoe breed is een weg? Een analyse in PostGIS"
-  description: "Wegen zitten in de BGT als vlakken. Als je vlakken hebt kun je dus ook de breedte daarvan bepalen, die info kan érg nuttig zijn. Maar hoe doe je dat? In deze presentatie laat ik zien hoe je in PostGIS razendsnel de breedte van wegdelen uit de BGT kan berekenen."
+  description: "De Basis Grootschalige Topografie (BGT) bevat een schat aan informatie. Bijvoorbeeld: alle wegdelen van Nederland als vlakobjecten. Hoe breed zijn die wegen eigenlijk? Ofwel: hoe breed is een vlak? Tijdens deze presentatie ga je zien dat je met wat handigheidjes in een PostGIS database razendsnel en héél nauwkeurig de breedte van de wegdelen kan berekenen, desnoods van heel Nederland. Maar, als je dat gedaan hebt, begint het eigenlijk pas echt ..."
   subtype: presentation
   speakers: [115]
   language: nl
