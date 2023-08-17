@@ -21,7 +21,8 @@
         description: "", 
         link: "https://tomtom.com/", 
         imageUrl: "TomTom-logo-RGB_lockup.png"
-      }    - {
+      }
+    - {
         name: "Just Objects",
         description: "", 
         link: "https://justobjects.nl/", 
