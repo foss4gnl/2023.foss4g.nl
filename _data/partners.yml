@@ -17,16 +17,21 @@
   group: "Zilver"
   elements:
     - {
+        name: "TomTom",
+        description: "", 
+        link: "https://tomtom.com/", 
+        imageUrl: "TomTom-logo-RGB_lockup.png"
+      }    - {
         name: "Just Objects",
         description: "", 
         link: "https://justobjects.nl/", 
         imageUrl: "logo-justobjects.png"
       }
     - {
-        name: "Geo Academie", 
+        name: "Tailormap", 
         description: "", 
-        link: "https://geo-academie.nl/", 
-        imageUrl: "logo-geoacademie-300x80.png"
+        link: "https://tailormap.nl/", 
+        imageUrl: "v3-Tailormap-Logo.svg"
       }      
 -
   group: "Brons"

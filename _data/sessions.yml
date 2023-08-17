@@ -69,12 +69,12 @@
   complexity: [beginner]
 -
   id: 103
-  title: ""
-  description: ""
+  title: "Ruimtelijke Statistieken en open geodata"
+  description: "Het CBS biedt een uitgebreide reeks ruimtelijke statistieken als open geodata aan. Deze statistieken zijn afgestemd op de ruimtelijke structuur van Nederland, in plaats van op administratieve indelingen zoals provincies en gemeenten. Deze statistieken omvatten onder andere bodemgebruik, bevolkingskernen, vierkantsgebieden en nabijheidsgegevens. In deze presentatie zal onder meer worden ingegaan op de mogelijkheden van het verbinden van statistische gegevens uit Statline met de beschikbare gebiedsindelingen als een service. Daarnaast zal er ook aandacht worden besteed aan het gebruik van open source geotools binnen het CBS."
   subtype: presentation
-  speakers: []
+  speakers: [103]
   language: nl
-  complexity: []
+  complexity: [beginner]
 -
   id: 104
   title: "Deelscooterdata: van hobbyproject tot onderwijsmateriaal"
