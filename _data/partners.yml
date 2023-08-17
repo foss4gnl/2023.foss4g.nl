@@ -13,6 +13,12 @@
         link: "https://www.geocat.net/", 
         imageUrl: "logo-geocat.png"
       }
+    - {
+        name: "GeoExperts", 
+        description: "", 
+        link: "https://www.geoexperts.nl", 
+        imageUrl: "geoexperts.png"
+      }
 -
   group: "Zilver"
   elements:
@@ -38,8 +44,8 @@
   group: "Brons"
   elements:
     - {
-        name: "Ruimteschepper", 
+        name: "", 
         description: "", 
-        link: "https://www.ruimteschepper.nl/", 
-        imageUrl: "ruimteschepper-logo-donker-300x169.png"
+        link: "", 
+        imageUrl: ""
       }
