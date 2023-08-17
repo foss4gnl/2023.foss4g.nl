@@ -384,4 +384,13 @@
   description: "Logan Williams is a data scientist for Bellingcat, with a background in cartography and data visualization."
   thumbnailUrl: "logan_williams.jpg"
   rockstar: true
+-
+  id: 144
+  name: "Jorrit"
+  surname: "van 't Hart"
+  company: "Autoriteit Consument & Markt"
+  thumbnailUrl: "jorrit_vanthart.jpeg"
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jorritvanthart/"}
+  rockstar: false
 

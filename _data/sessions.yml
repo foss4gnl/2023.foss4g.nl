@@ -222,9 +222,9 @@
 -
   id: 120
   title: "Geografische analyses bij fusiebeoordelingen"
-  description: "Python; Folium; drivetime; API; marktmacht (omzet/klantenaantallen); polygonen"
+  description: "Python; folium; retaillocaties; reistijden; API; marktmacht (omzet/klantenaantallen); concentratiebeoordeling; isochronen. <br /><br />Mogen twee supermarkten of andere retailers fuseren? Dat hangt af van hun (lokale) marktmacht (omzet/klantenaantallen). De Autoriteit Consument & Markt (ACM) beoordeelt deze en andere concentraties. Bij dit onderzoek speelt een geografische analyse vaak een rol vanwege geografische verschillen in marktmacht of de keuzevrijheid voor consumenten of bedrijven.<br /><br />Voor de geografische analyse kijken we naar de locaties en het klantenbereik. We bepalen reistijden en verzorgingsgebieden met onze eigen Python code gebruikmakend van de GoogleMaps API (geocoding, drive time) en de Here API voor isochronen. We maken de toezichthouders bewust van uitdagingen. We zullen je diverse kaarten laten zien, gemaakt in folium en (niet open source) Tableau."
   subtype: presentation
-  speakers: [120]
+  speakers: [120, 144]
   language: nl
   complexity: [beginner]
 -
