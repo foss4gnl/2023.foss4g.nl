@@ -6,7 +6,7 @@
   thumbnailUrl: "jacco_brouwer.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/jaccobrouwernl/"}
-  rockstar: true
+  rockstar: false
 -  
   id: 102
   name: "Kamiel"
@@ -15,16 +15,7 @@
   thumbnailUrl: "kamiel_verhelst.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/kamiel-verhelst/"}
-  rockstar: true
--
-  id: 103
-  name: "Dilara"
-  surname: "Ercan"
-  company: "Provincie Utrecht"
-  thumbnailUrl: "dilara_ercan.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/dilara-ercan/"}
-  rockstar: true
+  rockstar: false
 -
   id: 104
   name: "Leon"
@@ -33,7 +24,7 @@
   thumbnailUrl: "leon_meulen.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/leonvandermeulen/"}
-  rockstar: true
+  rockstar: false
 -
   id: 105
   name: "Ronnie"
@@ -42,7 +33,7 @@
   thumbnailUrl: "ronnie_lassche.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/ronnie-lassche-83715910/"}
-  rockstar: true
+  rockstar: false
 -
   id: 106
   name: "Just"
@@ -51,7 +42,7 @@
   thumbnailUrl: "just_broecke.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/justb4/"}
-  rockstar: true
+  rockstar: false
 -
   id: 107
   name: "Simon"
@@ -60,7 +51,7 @@
   thumbnailUrl: "simon_pouwelse.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/simonpouwelse/"}
-  rockstar: true
+  rockstar: false
 -
   id: 108
   name: "Hans"
@@ -69,7 +60,7 @@
   thumbnailUrl: "hans_kwast.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/jvdkwast/"}
-  rockstar: true
+  rockstar: false
 -
   id: 109
   name: "Bich"
@@ -78,7 +69,7 @@
   thumbnailUrl: "bich_tran.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/trngbich/"}
-  rockstar: true
+  rockstar: false
 -
   id: 110
   name: "Anne"
@@ -87,7 +78,7 @@
   thumbnailUrl: "anne_blankert.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/anne-blankert-1b45473/"}
-  rockstar: true
+  rockstar: false
 -
   id: 111
   name: "Jochem"
@@ -96,7 +87,7 @@
   thumbnailUrl: "jochem_lesparre.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/jochemlesparre/"}
-  rockstar: true
+  rockstar: false
 -
   id: 112
   name: "Reinout"
@@ -105,7 +96,7 @@
   thumbnailUrl: "reinout_rees.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/reinoutvanrees/"}
-  rockstar: true
+  rockstar: false
 -
   id: 113
   name: "Radboud"
@@ -114,7 +105,7 @@
   thumbnailUrl: "radboud_linden.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/radboud-van-der-linden-90359419/"}
-  rockstar: true
+  rockstar: false
 -
   id: 114
   name: "Coen"
@@ -123,7 +114,7 @@
   thumbnailUrl: "coen_verhoeve.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/coen-verhoeve-21190013/"}
-  rockstar: true
+  rockstar: false
 -
   id: 115
   name: "Willem"
@@ -132,7 +123,7 @@
   thumbnailUrl: "willem_hoffmans.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/willemhoffmans/"}
-  rockstar: true
+  rockstar: false
 -
   id: 116
   name: "Stephan"
@@ -141,7 +132,7 @@
   thumbnailUrl: "stephan_preeker.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/spreeker/"}
-  rockstar: true
+  rockstar: false
 -
   id: 117
   name: "Fabian"
@@ -150,7 +141,7 @@
   thumbnailUrl: "fabian_feijen.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/fabianfeijen/"}
-  rockstar: true
+  rockstar: false
 -
   id: 118
   name: "Wazir"
@@ -159,7 +150,7 @@
   thumbnailUrl: "wazir_sahebali.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/wazir-s-28a180112/"}
-  rockstar: true
+  rockstar: false
 -
   id: 119
   name: "Niene"
@@ -168,7 +159,7 @@
   thumbnailUrl: "niene_boeijen.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/niene-boeijen-24a8a429/"}
-  rockstar: true
+  rockstar: false
 -
   id: 120
   name: "Remco"
@@ -177,7 +168,7 @@
   thumbnailUrl: "placeholder.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/remco-bloem-5675b597/"}
-  rockstar: true
+  rockstar: false
 -
   id: 121
   name: "Marco"
@@ -186,7 +177,7 @@
   thumbnailUrl: "marco_antwerpen.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/marco-van-antwerpen-682ab566/"}
-  rockstar: true
+  rockstar: false
 -
   id: 122
   name: "Erik"
@@ -195,7 +186,7 @@
   thumbnailUrl: "erik_meerburg.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/erikmeerburg/"}
-  rockstar: true
+  rockstar: false
 -
   id: 123
   name: "Lars"
@@ -204,7 +195,7 @@
   thumbnailUrl: "lars_tol.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/lars-van-tol-91a99510a/"}
-  rockstar: true
+  rockstar: false
 -
   id: 124
   name: "Raymond"
@@ -213,7 +204,7 @@
   thumbnailUrl: "raymond_nijssen.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/raymond-nijssen-17227a6/"}
-  rockstar: true
+  rockstar: false
 -
   id: 125
   name: "Suzan"
@@ -222,7 +213,7 @@
   thumbnailUrl: "suzan_dehati.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/suzan-dehati-04a60922b/"}
-  rockstar: true
+  rockstar: false
 -
   id: 126
   name: "Casper"
@@ -231,7 +222,7 @@
   thumbnailUrl: "casper_kersten.jpg"
   social: 
     - {name: "site", link: "https://community.openstreetmap.org/u/friendly_ghost/"}
-  rockstar: true
+  rockstar: false
 -
   id: 127
   name: "Gina"
@@ -240,7 +231,7 @@
   thumbnailUrl: "gina_stavropoulou.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/gina-stavropoulou/"}
-  rockstar: true
+  rockstar: false
 -
   id: 128
   name: "Leonardo"
@@ -249,7 +240,7 @@
   thumbnailUrl: "leonardo_mauri.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/leonardo-mauri/"}
-  rockstar: true
+  rockstar: false
 -
   id: 129
   name: "Lucas"
@@ -258,7 +249,7 @@
   thumbnailUrl: "lucas_oto.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/lucas-de-oto-71066325/"}
-  rockstar: true
+  rockstar: false
 -
   id: 130
   name: "Yonas"
@@ -267,7 +258,7 @@
   thumbnailUrl: "yonas_asfaha.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/yonas-negusse-asfaha-a1091422a/"}
-  rockstar: true
+  rockstar: false
 -
   id: 131
   name: "Pieter"
@@ -276,7 +267,7 @@
   thumbnailUrl: "placeholder.jpg"
   social: 
     - {name: "linkedin", link: ""}
-  rockstar: true
+  rockstar: false
 -
   id: 132
   name: "Bert"
@@ -285,7 +276,7 @@
   thumbnailUrl: "bert_temme.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/berttemme/"}
-  rockstar: true
+  rockstar: false
 -
   id: 133
   name: "Aart"
@@ -294,7 +285,7 @@
   thumbnailUrl: "aart_allemekinders.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/aart-allemekinders-02625114/"}
-  rockstar: true
+  rockstar: false
 -
   id: 134
   name: "Jos"
@@ -303,7 +294,7 @@
   thumbnailUrl: "jos_goossen.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/josgoossen/"}
-  rockstar: true
+  rockstar: false
 -
   id: 135
   name: "Tim"
@@ -312,7 +303,7 @@
   thumbnailUrl: "tim_osch.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/tvanosch/"}
-  rockstar: true
+  rockstar: false
 -
   id: 136
   name: "Wim"
@@ -321,7 +312,7 @@
   thumbnailUrl: "wim_kosten.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/wim-kosten-66910613/"}
-  rockstar: true
+  rockstar: false
 -
   id: 137
   name: "Marco"
@@ -330,7 +321,7 @@
   thumbnailUrl: "marco_duiker.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/mdkwadraat/"}
-  rockstar: true
+  rockstar: false
 -
   id: 138
   name: "Thieu"
@@ -339,12 +330,12 @@
   thumbnailUrl: "thieu_caris.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/thieucaris/"}
-  rockstar: true
+  rockstar: false
 -
   id: 139
   name: "Frits"
   surname: "Bussemaker"
-  company: "Institute for Accountability in the Digital Age"
+  company: "Business Community Builder"
   thumbnailUrl: "frits_bussemaker.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/fritsbussemaker/"}
@@ -357,7 +348,7 @@
   thumbnailUrl: "bart_louwers.jpeg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/bart-louwers/"}
-  rockstar: true
+  rockstar: false
 -
   id: 141
   name: "Wouter"
@@ -366,7 +357,7 @@
   thumbnailUrl: "wouter_van_der_hulst.jpg"
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/wouter-van-der-hulst-a9933a137/"}
-  rockstar: true
+  rockstar: false
 -
   id: 142
   name: "Arash"
@@ -375,5 +366,12 @@
   thumbnailUrl: "arash_hoseni.jpg"
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/arash-hoseni-b9253b83/"}
+  rockstar: false
+-
+  id: 143
+  name: "Logan"
+  surname: "Williams"
+  company: "Bellingcat"
+  thumbnailUrl: "logan_williams.jpg"
   rockstar: true
 
