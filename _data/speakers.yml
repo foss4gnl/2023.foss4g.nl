@@ -16,6 +16,15 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/kamiel-verhelst/"}
   rockstar: false
+  -  
+  id: 103
+  name: "Jurriën"
+  surname: "Vroom"
+  company: "CBS"
+  thumbnailUrl: "jurrien_vroom.jpeg"
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jurrien-vroom-91345715b/"}
+  rockstar: false
 -
   id: 104
   name: "Leon"
