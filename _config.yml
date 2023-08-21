@@ -58,8 +58,8 @@ statisticBlockImage: "delft_ahn3.jpg"
 statisticBlock:
  - {count: "4", specialCharacter: "", info: "workshops", detail: ""}
  - {count: "2", specialCharacter: "", info: "keynotes", detail: ""}
- - {count: "28", specialCharacter: "", info: "sessies", detail: ""}
- - {count: "4", specialCharacter: "", info: "parallele tracks", detail: ""}
+ - {count: "42", specialCharacter: "", info: "sessies", detail: ""}
+ - {count: "5", specialCharacter: "", info: "parallele tracks", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Nieuws"
