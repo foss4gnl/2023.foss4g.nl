@@ -393,4 +393,23 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/jorritvanthart/"}
   rockstar: false
+-
+  id: 145
+  name: "Paul"
+  surname: "Suijkerbuijk"
+  company: "VNG Realisatie"
+  thumbnailUrl: "paul_suijkerbuijk.jpeg"
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/palinuro/"}
+  rockstar: false
+-
+  id: 146
+  name: "Jeroen"
+  surname: "Hovens"
+  company: "Groene Bij"
+  thumbnailUrl: "jeroen_hovens.jpeg"
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jeroenhovens/"}
+  rockstar: false
+
 

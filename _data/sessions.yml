@@ -316,6 +316,22 @@
   language: nl
   complexity: [beginner]
 -
+  id: 134
+  title: "Hoe geo de energietransitie helpt."
+  description: "De energietransitie is een belangrijke opgave voor gemeenten waarbij data enorm kunnen helpen om een goed beeld te krijgen van de opgave, om goed beleid te maken, en om er effectief mee aan de slag te gaan. Belangrijke vraag is dan wel, welke data precies? <br />VNG heeft een tool gemaakt die gemeenten eenvoudig toegang geeft tot de data die helpt bij de uitvoering van de energietransitie. <br />Om er voor te zorgen dat deze tool je ook echt helpt om je vragen te beantwoorden en gedegen plannen te maken, is het van belang dat het data-aanbod nauwkeurig afgestemd is op de behoeften van gemeenten, er is steeds gezocht naar data die ook echt een oplossing voor de vraag zijn. In deze sessie wordt met de deelnemers gekeken of de juiste keuzes zijn gemaakt."
+  subtype: presentation
+  speakers: [145]
+  language: nl
+  complexity: [beginner]
+-
+  id: 135
+  title: "Hoe geo de energietransitie helpt: praktisch"
+  description: "Je kan de tooling natuurlijk bespreken, maar het is interessanter het ook hands-on uit te proberen. Op basis van wat in de vorige sessie is besproken gaan de deelnemers in deze interactieve sessie aan de hand van een aantal scenario’s  hands-on gaan onderzoeken hoe de Datavoorziening Energietransitie Gebouwde Omgeving (DEGO) helpt om hún vraagstukken op te lossen. <br />Bij deze sessie is het handig als deelnemers de beschikking hebben over een laptop."
+  subtype: presentation
+  speakers: [145, 119]
+  language: nl
+  complexity: [beginner]
+-
   id: 703
   title: "Simpel webkaarten maken met Tailormap 11"
   description: "In deze workshop leer je, zoals de titel al zegt, op simpele wijze webkaarten te maken met Tailormap 11. We gebruiken PDOK services (en nog wat andere dingen, bijvoorbeeld de WMS/WFS-services van je eigen organisatie) waarmee je je webkaarten zelf in kan richten. <br />Dit opensource-webGIS programma draait op een server, maar kan ook op je eigen laptop draaien via een Docker container. We zorgen ervoor dat je zeker aan de slag kan!"
