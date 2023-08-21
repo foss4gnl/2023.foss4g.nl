@@ -1,4 +1,21 @@
 -
+  id: 99
+  name: "Frits"
+  surname: "Bussemaker"
+  company: "Business Community Builder"
+  thumbnailUrl: "frits_bussemaker.jpg"
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fritsbussemaker/"}
+  rockstar: true
+-
+  id: 100
+  name: "Logan"
+  surname: "Williams"
+  company: "Bellingcat"
+  description: "Logan Williams is a data scientist for Bellingcat, with a background in cartography and data visualization."
+  thumbnailUrl: "logan_williams.jpg"
+  rockstar: true
+-
   id: 101
   name: "Jacco"
   surname: "Brouwer"
