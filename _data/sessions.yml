@@ -332,6 +332,14 @@
   language: nl
   complexity: [beginner]
 -
+  id: 136
+  title: "A Journey through time in Middelburg to a modern, QGIS based, 3D hardwood design of the city"
+  description: "Middelburg has been an important Centre of Geography and Cartography. The city's involvement in global trade, exploration, and craftmanship has deep roots. Which needs and emotions drove people during these times to the cartographic masterpieces they made? These and other questions will lead us through history, to end up in our own modern QGIS based model of Middelburg."
+  subtype: presentation
+  speakers: [147]
+  language: nl/en
+  complexity: [beginner]
+-
   id: 703
   title: "Simpel webkaarten maken met Tailormap 11"
   description: "In deze workshop leer je, zoals de titel al zegt, op simpele wijze webkaarten te maken met Tailormap 11. We gebruiken PDOK services (en nog wat andere dingen, bijvoorbeeld de WMS/WFS-services van je eigen organisatie) waarmee je je webkaarten zelf in kan richten. <br />Dit opensource-webGIS programma draait op een server, maar kan ook op je eigen laptop draaien via een Docker container. We zorgen ervoor dat je zeker aan de slag kan!"

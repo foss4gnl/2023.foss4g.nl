@@ -7,6 +7,7 @@
     - {title: "3D, RS & CRS", color: "#e91e63"}
     - {title: "Py, edu & carto", color: "#03a9f4"}
     - {title: "OSPO's en OSS", color: "#6326ff"}
+    - {title: "Energietransitie", color: "#63ddbb"}
   timeslots:
     - {
       startTime: "9:00",
@@ -31,17 +32,17 @@
     - {
       startTime: "11:00",
       endTime: "12:15",
-      sessionIds: [124,121,107,101]
+      sessionIds: [124,121,107,101,999]
     }
     - {
       startTime: "",
       endTime: "",
-      sessionIds: [120,127,104,133]
+      sessionIds: [120,127,104,133,999]
     }
     - {
       startTime: "",
       endTime: "",
-      sessionIds: [105,102,103,141]
+      sessionIds: [105,102,103,141,999]
     }
     - {
       startTime: "12:15",
@@ -51,17 +52,17 @@
     - {
       startTime: "13:30",
       endTime: "14:45",
-      sessionIds: [117,125,132,142]
+      sessionIds: [117,125,132,142,103]
     }
     - {
       startTime: "",
       endTime: "",
-      sessionIds: [115,130,110,143]
+      sessionIds: [115,130,110,143,134]
     }    
     - {
       startTime: "",
       endTime: "",
-      sessionIds: [109,128,129,144]
+      sessionIds: [109,128,129,144,135]
     }
     - {
       startTime: "14:45",
@@ -71,12 +72,12 @@
     - {
       startTime: "15:05",
       endTime: "16:00",
-      sessionIds: [118,111,119,113]
+      sessionIds: [118,111,119,113,999]
     }
     - {
       startTime: "",
       endTime: "",
-      sessionIds: [112,116,106,131]
+      sessionIds: [112,116,106,131,147]
     }
     - {
       startTime: "16:00",

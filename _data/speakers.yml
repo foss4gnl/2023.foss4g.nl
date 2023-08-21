@@ -411,5 +411,14 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/jeroenhovens/"}
   rockstar: false
+-
+  id: 147
+  name: "Nick"
+  surname: "Verwaal"
+  company: "Maplab"
+  thumbnailUrl: "nick_verwaal.jpeg"
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nickverwaal/"}
+  rockstar: false
 
 
