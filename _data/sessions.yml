@@ -16,7 +16,7 @@
   id: 801
   title: "Opening"
   description: "door OSGeo.nl voorzitter Niene Boeijen en dagvoorzitter Erik Meerburg"
-  speakers: [119,122]
+  speakers: [94,95]
   service: true
 -
   id: 802
@@ -39,14 +39,14 @@
   title: "Opening keynote: Community Building"
   subtype: presentation
   description: "Volgens het World Economic Forum leven we midden in de 4th industrial wave. Een tijdperk waar alles met elkaar verbonden raakt. Dit geldt niet alleen voor systemen maar, ook voor mensen en organisaties. We leven in een wereld die verandert van een industrieel gestuurde Command-and-Control maatschappij naar een van netwerken gericht op Connect-and-Collaborate. Digitale technologie speelt hier een fundamentele en ondersteunende rol.<br />Bussemaker werkt al ruim 35 jaar in de IT industrie en is sinds de jaren ’80 betrokken bij vele kennisnetwerken, brancheorganisaties en community's als adviseur, oprichter of management. Die ervaring zorgde ervoor dat hij steeds vaker gevraagd wordt zijn eigen ervaring te delen met personen die meer van community building willen weten.<br />De presentatie geeft een persoonlijke visie op community building met vele voorbeelden en praktische tips. De presentatie gaat ook in op de plek die communities krijgen binnen en tussen organisaties en, staat stil bij de grotere rol van de community mindset in een Connect-and-Collaborate wereld."
-  speakers: [139]
+  speakers: [90]
   language: "NL"
 -
   id: 902
   title: "Closing Keynote: Investigating war crimes, animal trafficking, and more with open source geospatial data"
   subtype: presentation
   description: "At Bellingcat, a non-profit investigative organization in the Netherlands, we research war crimes, find tiger smugglers, monitor environmental degradation and track extremist hate. To do this, we use open sources, including public databases, social media posts, and a wide range of geospatial data and tools. The use of these new online sources has dramatically changed investigative journalism and humanitarian accountability research in the past five years, and there remains tremendous potential for further development, especially in the geospatial realm. <br />In this keynote talk, Bellingcat data scientist Logan Williams will present case studies from our research to illustrate how invaluable open source geospatial tools and data are for open source investigative research. Some of the most useful tools for investigators are designed for very different purposes, from academic meterology to outdoor recreation. Additionally, some of Bellingcat's own FOSS geospatial tools, based on Open Street Map and Copernicus satellite data, will be showcased. Finally, the keynote will discuss opportunities for deepening the connections between the open source geospatial community and the open source investigation community."
-  speakers: [143]
+  speakers: [91]
   language: "EN"
 -
   id: 999

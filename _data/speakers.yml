@@ -1,5 +1,5 @@
 -
-  id: 99
+  id: 90
   name: "Frits"
   surname: "Bussemaker"
   company: "Business Community Builder"
@@ -8,13 +8,31 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/fritsbussemaker/"}
   rockstar: true
 -
-  id: 100
+  id: 91
   name: "Logan"
   surname: "Williams"
   company: "Bellingcat"
   description: "Logan Williams is a data scientist for Bellingcat, with a background in cartography and data visualization."
   thumbnailUrl: "logan_williams.jpg"
   rockstar: true
+-
+  id: 94
+  name: "Niene"
+  surname: "Boeijen"
+  company: "This Way Cartography"
+  thumbnailUrl: "niene_boeijen.jpg"
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/niene-boeijen-24a8a429/"}
+  rockstar: false
+-
+  id: 95
+  name: "Erik"
+  surname: "Meerburg"
+  company: "B3Partners"
+  thumbnailUrl: "erik_meerburg.jpg"
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/erikmeerburg/"}
+  rockstar: false
 -
   id: 101
   name: "Jacco"
@@ -178,15 +196,6 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/wazir-s-28a180112/"}
   rockstar: false
 -
-  id: 119
-  name: "Niene"
-  surname: "Boeijen"
-  company: "This Way Cartography"
-  thumbnailUrl: "niene_boeijen.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/niene-boeijen-24a8a429/"}
-  rockstar: false
--
   id: 120
   name: "Remco"
   surname: "Bloem"
@@ -203,15 +212,6 @@
   thumbnailUrl: "marco_antwerpen.jpg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/marco-van-antwerpen-682ab566/"}
-  rockstar: false
--
-  id: 122
-  name: "Erik"
-  surname: "Meerburg"
-  company: "B3Partners"
-  thumbnailUrl: "erik_meerburg.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/erikmeerburg/"}
   rockstar: false
 -
   id: 123
@@ -358,15 +358,6 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/thieucaris/"}
   rockstar: false
 -
-  id: 139
-  name: "Frits"
-  surname: "Bussemaker"
-  company: "Business Community Builder"
-  thumbnailUrl: "frits_bussemaker.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/fritsbussemaker/"}
-  rockstar: true
--
   id: 140
   name: "Bart"
   surname: "Louwers"
@@ -393,14 +384,6 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/arash-hoseni-b9253b83/"}
   rockstar: false
--
-  id: 143
-  name: "Logan"
-  surname: "Williams"
-  company: "Bellingcat"
-  description: "Logan Williams is a data scientist for Bellingcat, with a background in cartography and data visualization."
-  thumbnailUrl: "logan_williams.jpg"
-  rockstar: true
 -
   id: 144
   name: "Jorrit"
