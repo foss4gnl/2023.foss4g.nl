@@ -36,9 +36,9 @@
   service: true
 -
   id: 901
-  title: "Opening keynote"
+  title: "Opening keynote: Community Building"
   subtype: presentation
-  description: ""
+  description: "Volgens het World Economic Forum leven we midden in de 4th industrial wave. Een tijdperk waar alles met elkaar verbonden raakt. Dit geldt niet alleen voor systemen maar, ook voor mensen en organisaties. We leven in een wereld die verandert van een industrieel gestuurde Command-and-Control maatschappij naar een van netwerken gericht op Connect-and-Collaborate. Digitale technologie speelt hier een fundamentele en ondersteunende rol.<br />Bussemaker werkt al ruim 35 jaar in de IT industrie en is sinds de jaren ’80 betrokken bij vele kennisnetwerken, brancheorganisaties en community's als adviseur, oprichter of management. Die ervaring zorgde ervoor dat hij steeds vaker gevraagd wordt zijn eigen ervaring te delen met personen die meer van community building willen weten.<br />De presentatie geeft een persoonlijke visie op community building met vele voorbeelden en praktische tips. De presentatie gaat ook in op de plek die communities krijgen binnen en tussen organisaties en, staat stil bij de grotere rol van de community mindset in een Connect-and-Collaborate wereld."
   speakers: [139]
   language: "NL"
 -
@@ -232,7 +232,7 @@
   title: "3DToolboxNL"
   description: "De Provincie Zeeland werkt, ondersteund door LandGoed ICT, aan een open source Digital Twin (https://virtueel.zeeland.nl). Open source software die we hier voor (laten) maken, delen we in de 3D Toolbox (https://github.com/ProvincieZeeland/3DToolbox). Er is een NL 3D open source community in oprichting.<br /><br />We ontsluiten 3D data en 3D modellen zoals GeoTop uit de Basisregistratie Ondergrond (BRO), overstromingsscenario's of hoogtebestanden (DEM) van de Zeeuwse kust als open 3D services. De Provincie Zeeland gebruikt deze 3D services in een digital twin omgeving (op basis van Cesium). <br /><br />Marco Duiker (LandGoed ICT), Marco van Antwerpen (Provincie Zeeland) en Thieu Caris (Provincie Zeeland) vertellen over de digital twin, het Open Source Program Office (OSPO) Provincie Zeeland, waarom de 3D Toolbox gerealiseerd wordt in een open source omgeving, hoe we dat (technisch) doen, het belang van het delen van kennis en “open” en flexibel kunnen samenwerken. We willen vooral veel laten zien. <br />"
   subtype: presentation
-  speakers: [121, 137, 138]
+  speakers: [121, 137]
   language: nl
   complexity: [beginner]
 -
