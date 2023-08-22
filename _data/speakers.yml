@@ -420,5 +420,14 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/nickverwaal/"}
   rockstar: false
+-
+  id: 148
+  name: "Ivonne"
+  surname: "Jansen-Dings"
+  company: "Provincie Zuid-Holland"
+  thumbnailUrl: "placeholder.jpg"
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ivonnejansendings/"}
+  rockstar: false
 
 
