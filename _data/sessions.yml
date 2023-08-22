@@ -344,7 +344,7 @@
   title: "Simpel webkaarten maken met Tailormap 11"
   description: "In deze workshop leer je, zoals de titel al zegt, op simpele wijze webkaarten te maken met Tailormap 11. We gebruiken PDOK services (en nog wat andere dingen, bijvoorbeeld de WMS/WFS-services van je eigen organisatie) waarmee je je webkaarten zelf in kan richten. <br />Dit opensource-webGIS programma draait op een server, maar kan ook op je eigen laptop draaien via een Docker container. We zorgen ervoor dat je zeker aan de slag kan!"
   subtype: workshop
-  speakers: [122]
+  speakers: [95]
   language: nl
   complexity: [beginner]
 -
