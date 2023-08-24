@@ -429,5 +429,14 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/ivonnejansendings/"}
   rockstar: false
+-
+  id: 149
+  name: "Eveline"
+  surname: "Helder"
+  company: "Provincie Noord-Holland"
+  thumbnailUrl: "eveline_helder.jpeg"
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/eveline-helder-65307649/"}
+  rockstar: false
 
 

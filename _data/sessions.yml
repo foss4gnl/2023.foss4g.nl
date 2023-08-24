@@ -104,7 +104,7 @@
   title: "Vegetatie Monitoring via Sentinel-2 Satellietbeelden in Python"
   description: "Met behulp van dit laagdrempelige Python script willen we satellietbeelden toegankelijk maken voor iedereen. We gebruiken hiervoor de satellietbeelden van de Sentinel-2 satelliet. Hier kan je de naam van een provincie opgeven, om de beelden te krijgen van die provincie. Ook kan je een tijdsperiode opgeven om meerdere beelden van hetzelfde gebied te analyseren. In deze sessie nemen we je mee door alle mogelijkheden van het script en vertellen we wat jullie nog kunnen verwachten in de toekomst."
   subtype: presentation
-  speakers: [107]
+  speakers: [149,107]
   language: nl
   complexity: [beginner]
 -
