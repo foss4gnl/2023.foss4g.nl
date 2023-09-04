@@ -348,6 +348,14 @@
   language: nl
   complexity: [beginner]
 -
+  id: 138
+  title: "Atlas: de open source geoviewer ontwikkeld door gemeenten"
+  description: "Met Atlas maken gemeenten zoals Utrecht en Purmerend eenvoudig kaarten voor inwoners. Denk bijvoorbeeld aan parkeergelegenheid, strooiroutes, erfgoed en scholen. Atlas wordt open source software ontwikkeld en is een succesvol voorbeeld van een Common Ground initiatief."
+  subtype: presentation
+  speakers: [150,151]
+  language: nl
+  complexity: [beginner]
+-
   id: 703
   title: "Simpel webkaarten maken met Tailormap 11"
   description: "In deze workshop leer je, zoals de titel al zegt, op simpele wijze webkaarten te maken met Tailormap 11. We gebruiken PDOK services (en nog wat andere dingen, bijvoorbeeld de WMS/WFS-services van je eigen organisatie) waarmee je je webkaarten zelf in kan richten. <br />Dit opensource-webGIS programma draait op een server, maar kan ook op je eigen laptop draaien via een Docker container. We zorgen ervoor dat je zeker aan de slag kan!"

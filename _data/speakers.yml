@@ -438,5 +438,23 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/eveline-helder-65307649/"}
   rockstar: false
+-
+  id: 150
+  name: "Bart"
+  surname: "Jeukendrup"
+  company: "Delta10"
+  thumbnailUrl: "bart_jeukendurp.jpeg"
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bartjkdp/"}
+  rockstar: false
+-
+  id: 151
+  name: "Casper"
+  surname: "Ficke"
+  company: "Gemeente Purmerend"
+  thumbnailUrl: "casper_ficke.jpeg"
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/casperficke/"}
+  rockstar: false
 
 
