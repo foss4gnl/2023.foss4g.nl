@@ -34,6 +34,15 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/erikmeerburg/"}
   rockstar: false
 -
+  id: 96
+  name: "Ferry"
+  surname: "Brasz"
+  company: "Provincie Zeeland"
+  thumbnailUrl: "ferry_brasz.jpeg"
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ferrybrasz/"}
+  rockstar: false
+-
   id: 101
   name: "Jacco"
   surname: "Brouwer"

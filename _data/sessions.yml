@@ -15,9 +15,8 @@
 -
   id: 801
   title: "Opening"
-  description: "door OSGeo.nl voorzitter Niene Boeijen en dagvoorzitter Erik Meerburg"
-  speakers: [94,95]
-  service: true
+  description: "door OSGeo.nl voorzitter Niene Boeijen en dagvoorzitter Erik Meerburg <br />Welkomstwoord door Ferry Brasz, CIO van de Provincie Zeeland"
+  speakers: [94,95,96]
 -
   id: 802
   title: "Koffie"
