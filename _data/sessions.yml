@@ -2,6 +2,7 @@
 # idd 9xx is keynotes, 1xx is track 1, 2xx is track 2, 3xx is track 3, 7xx is workshops 
 # title:""     is de titel in het blokje
 # subtype: "presentation"    geen idee wat dit doet
+# service: true: dan komt de description er direct bij te staan, en is er ook geen pop up meer naar de inhoud.
 # description: "" is de beschrijving in de pop-up onder Language
 # speakers [x]  het nummer x verwijst naar het id nummer van de speaker in _data/speakers.yml
 # language: ""  geeft de taal van de presentatie, in de pop-up onder de titel
@@ -17,6 +18,7 @@
   title: "Opening"
   description: "door OSGeo.nl voorzitter Niene Boeijen en dagvoorzitter Erik Meerburg <br />Welkomstwoord door Ferry Brasz, CIO van de Provincie Zeeland"
   speakers: [94,95,96]
+  language: "NL"
 -
   id: 802
   title: "Koffie"

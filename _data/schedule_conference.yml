@@ -7,7 +7,7 @@
     - {title: "3D, RS & CRS", color: "#e91e63"}
     - {title: "Py, edu & carto", color: "#03a9f4"}
     - {title: "OSPO's en OSS", color: "#6326ff"}
-    - {title: "Energie", color: "#63ddbb"}
+    - {title: "Energiegevers", color: "#63ddbb"}
   timeslots:
     - {
       startTime: "9:00",
