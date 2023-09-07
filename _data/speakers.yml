@@ -280,7 +280,7 @@
   id: 129
   name: "Wim"
   surname: "Blanken"
-  company: "Rijkswaterstaat"
+  company: "Groninger Bodem Beweging"
   thumbnailUrl: "wim_blanken.jpeg"
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/wimblanken/"}
