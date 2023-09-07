@@ -278,8 +278,8 @@
   complexity: [beginner]
 -
   id: 129
-  title: "Teaching GI with FOSS: A multipurpose learning kit to build an application using integrated active learning strategies"
-  description: "The objective of this talk is to present our multi-purpose training set \"Geo-web app building with open-source GIS tools\". The course focuses on the process of designing and building a web application for geodata dissemination from a spatial problem-solving perspective using exclusively FOSS. It was created with the goal to address both academics or staff members working with GI at non-academic organisations. Its flexible structure allows for fairly fast customization and can be taught both face to face and remotely. <br /><br />At the start of the course, students are presented with a web application that has been developed in response to a geospatial challenge. Throughout the course, participants will learn the theoretical concepts and practical skills necessary to be able to recreate this application themselves. From scratch, step-by-step, they will rebuild that full functional application while learning core notions of spatial data management, analysis, and visualization, basic programming skills, as well as hands-on training for installing and setting-up of a geo database, web server, map-server and used frameworks.<br /><br />The course merges elements from direct, interactive, and experiential instructional strategies. Purely teacher-centered delivery methods (i.e. explicit teaching) are combined with co-operative learning experiences (i.e. assigned groups for hands-on sessions), and an underlying activator that motivates the students to engage with and take ownership of their own learning process (i.e. recreating the web-application as final project) "
+  title: "Toepassing Open Source Geo-ICT bij Burger Participatie: Case Groningen"
+  description: ""
   subtype: presentation
   speakers: [129]
   language: en

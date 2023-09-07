@@ -278,12 +278,12 @@
   rockstar: false
 -
   id: 129
-  name: "Lucas"
-  surname: "De Oto"
-  company: "ITC UT"
-  thumbnailUrl: "lucas_oto.jpg"
+  name: "Wim"
+  surname: "Blanken"
+  company: "Rijkswaterstaat"
+  thumbnailUrl: "wim_blanken.jpeg"
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/lucas-de-oto-71066325/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/wimblanken/"}
   rockstar: false
 -
   id: 130
