@@ -44,8 +44,8 @@
   group: "Brons"
   elements:
     - {
-        name: "", 
+        name: "Alliander", 
         description: "", 
-        link: "", 
-        imageUrl: ""
+        link: "https://www.alliander.com/en/", 
+        imageUrl: "alliander.png"
       }
