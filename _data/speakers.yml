@@ -115,15 +115,6 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/jvdkwast/"}
   rockstar: false
 -
-  id: 109
-  name: "Bich"
-  surname: "Tran"
-  company: "IHE Delft"
-  thumbnailUrl: "bich_tran.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/trngbich/"}
-  rockstar: false
--
   id: 110
   name: "Anne"
   surname: "Blankert"
@@ -302,15 +293,6 @@
   thumbnailUrl: "placeholder.jpg"
   social: 
     - {name: "linkedin", link: ""}
-  rockstar: false
--
-  id: 132
-  name: "Bert"
-  surname: "Temme"
-  company: "Geodan"
-  thumbnailUrl: "bert_temme.jpg"
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/berttemme/"}
   rockstar: false
 -
   id: 133

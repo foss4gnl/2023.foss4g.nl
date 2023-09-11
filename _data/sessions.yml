@@ -65,7 +65,7 @@
   title: "Een Landsdekkend Cesium Terrain vanuit de AHN"
   description: "Een 3D viewer is niet veel waard zonder een accurate weergave van het terrein, ook al is het Hollandse 'plat' vaak bijna niet van 'echt plat' te onderscheiden... In deze presentatie duiken we in de wereld van 3D terreinen in Cesium. Hoe kies je het juiste (verticale) CRS? Hoe verwerk je honderden gigabytes aan AHN4 terreinmodellen? En vooral: hoe genereer je uit een hoogteraster een set aan tiles voor je Cesium client? Met behulp de twee Docker images die we voor dit proces hebben gemaakt, heb je in no time je eigen terrein gegenereerd."
   subtype: presentation
-  speakers: [102,132]
+  speakers: [102]
   language: nl
   complexity: [beginner]
 -
@@ -151,7 +151,7 @@
 -
   id: 141
   title: "de open Zeeuwse streekproducten (1/4)"
-  description: "de meetgegevens vanuit het veld brengen we naar de beleidsspecialist. We meten met de multiflexmeter (MFM, arduinochip) gegevens in het veld, transporteren die via het open Loranetwerk, verzamelen het met SensorBucket en ontsluiten die in onze open-source omgeving. open hardware, open data, open standaarden, open source. "
+  description: "de meetgegevens vanuit het veld brengen we naar de beleidsspecialist. We meten met de multiflexmeter (MFM, arduinochip) gegevens in het veld, transporteren die via het open Loranetwerk, verzamelen het met SensorBucket en ontsluiten die in onze open-source omgeving. open hardware, open data, open standaarden, open source. <br /><br />In het ochtenddeel neemt Jos Goossen je mee in de bijzondere ontwikkeling van de Multiflexmeter. "
   subtype: presentation
   speakers: [114, 134] 
   language: nl
@@ -159,7 +159,7 @@
 -
   id: 142
   title: "de open Zeeuwse streekproducten (2/4)"
-  description: "de meetgegevens vanuit het veld brengen we naar de beleidsspecialist. We meten met de multiflexmeter (MFM, arduinochip) gegevens in het veld, transporteren die via het open Loranetwerk, verzamelen het met SensorBucket en ontsluiten die in onze open-source omgeving. open hardware, open data, open standaarden, open source. "
+  description: "de meetgegevens vanuit het veld brengen we naar de beleidsspecialist. We meten met de multiflexmeter (MFM, arduinochip) gegevens in het veld, transporteren die via het open Loranetwerk, verzamelen het met SensorBucket en ontsluiten die in onze open-source omgeving. open hardware, open data, open standaarden, open source. <br /><br />"In het eerste blokje op dit middagdeel van de open Zeeuwse streekproducten zal Aart Allemekinders vertellen over de manier waarop we in Zeeland gebouwd hebben aan ons eigen LoRanetwerk.
   subtype: presentation
   speakers: [114, 133] 
   language: nl
@@ -167,7 +167,7 @@
 -
   id: 143
   title: "de open Zeeuwse streekproducten (3/4)"
-  description: "de meetgegevens vanuit het veld brengen we naar de beleidsspecialist. We meten met de multiflexmeter (MFM, arduinochip) gegevens in het veld, transporteren die via het open Loranetwerk, verzamelen het met SensorBucket en ontsluiten die in onze open-source omgeving. open hardware, open data, open standaarden, open source. "
+  description: "de meetgegevens vanuit het veld brengen we naar de beleidsspecialist. We meten met de multiflexmeter (MFM, arduinochip) gegevens in het veld, transporteren die via het open Loranetwerk, verzamelen het met SensorBucket en ontsluiten die in onze open-source omgeving. open hardware, open data, open standaarden, open source. <br /><br /> In dit tweede blokje vertelt Tim van Osch over de ontwikkeling van SensorBucket. Dé manier om alle data die we onder andere genereren met de Multiflexmeter op eenvoudige en uniforme wijze via onder andere het LoRanetwerk bij de eindgebruiker krijgen."
   subtype: presentation
   speakers: [114, 135] 
   language: nl
@@ -175,7 +175,7 @@
 -
   id: 144
   title: "de open Zeeuwse streekproducten (4/4)"
-  description: "de meetgegevens vanuit het veld brengen we naar de beleidsspecialist. We meten met de multiflexmeter (MFM, arduinochip) gegevens in het veld, transporteren die via het open Loranetwerk, verzamelen het met SensorBucket en ontsluiten die in onze open-source omgeving. open hardware, open data, open standaarden, open source. "
+  description: "de meetgegevens vanuit het veld brengen we naar de beleidsspecialist. We meten met de multiflexmeter (MFM, arduinochip) gegevens in het veld, transporteren die via het open Loranetwerk, verzamelen het met SensorBucket en ontsluiten die in onze open-source omgeving. open hardware, open data, open standaarden, open source. <br /><br /> Om het verhaal compleet te maken laat Aart Allemekinders samen met Tim van Osch en Wim Kosten zien hoe de toekomst van het Zeeuwse LoRanetwerk er uit komt te zien. Toekomstgericht en toegankelijk voor alle sensoren in Zeeland.<br /><br /> Afsluitend gaat Coen Verhoeve vanuit de digitale agenda Zeeland met inleiders en publiek in gesprek over de mogelijkheden en de kansen voor deze mooie opensource producten.  "
   subtype: presentation
   speakers: [114, 136] 
   language: nl
@@ -289,7 +289,7 @@
   title: "Leveraging Remote Sensing, GIS, and Open-Access Data to Investigate Nocturnal Cold Air Formation in Dutch Dune Slacks"
   description: "The coast area of Netherlands comprises around 45,000 ha of dunes which serve as a protection against flood and source of drinking water among other uses (Arens et al. 2013). Within the dune landscape, dune slacks are present which are depressions with low altitude that contain a distinct micro-climate as compared to the surrounding dune environment.<br />This research aims to understand the nocturnal cold air formation inside the coastal dune slacks of the Netherlands by comparing the recorded time series temperature data with the geomorphology, soil type, soil moisture, wind speed and vegetation cover of 35 dune slacks. <br />The methodology leverages a wealth of open-access data, including freely available high-resolution point cloud, digital images, remote sensing (RS) products, and field measurements. The high-resolution point cloud data enables the analysis of general geomorphological characteristics using QGIS tools and plugins, while RS NDVI data provides valuable insights into vegetation cover. Ground measurements and SAR data are used to acquire soil moisture information. <br />At the end, all the analysis made in QGIS is going to be compared with the logged temperature data in each dune slack using some statistical tools. <br /><br />Therefore, in the FOSS4G NL, I want to share how I used the open source data and software’s to conduct my Thesis in the Netherlands. <br />"
   subtype: presentation
-  speakers: [130,131,109]
+  speakers: [130,131]
   language: en
   complexity: [beginner]
 -
