@@ -159,7 +159,7 @@
 -
   id: 142
   title: "de open Zeeuwse streekproducten (2/4)"
-  description: "de meetgegevens vanuit het veld brengen we naar de beleidsspecialist. We meten met de multiflexmeter (MFM, arduinochip) gegevens in het veld, transporteren die via het open Loranetwerk, verzamelen het met SensorBucket en ontsluiten die in onze open-source omgeving. open hardware, open data, open standaarden, open source. <br /><br />"In het eerste blokje op dit middagdeel van de open Zeeuwse streekproducten zal Aart Allemekinders vertellen over de manier waarop we in Zeeland gebouwd hebben aan ons eigen LoRanetwerk.
+  description: "de meetgegevens vanuit het veld brengen we naar de beleidsspecialist. We meten met de multiflexmeter (MFM, arduinochip) gegevens in het veld, transporteren die via het open Loranetwerk, verzamelen het met SensorBucket en ontsluiten die in onze open-source omgeving. open hardware, open data, open standaarden, open source. <br /><br />In het eerste blokje op dit middagdeel van de open Zeeuwse streekproducten zal Aart Allemekinders vertellen over de manier waarop we in Zeeland gebouwd hebben aan ons eigen LoRanetwerk."
   subtype: presentation
   speakers: [114, 133] 
   language: nl
