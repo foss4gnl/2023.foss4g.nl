@@ -4,7 +4,7 @@ spreker: "WORD SPREKER"
 eventDate: "13/14 september 2023 - Provincie Zeeland - Middelburg"
 buttons:
   # {permalink: "/becomeaspeaker/", text: "Become a speaker"}
-  - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2023-671614857117", text: "tickets"}
+  # - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2023-671614857117", text: "tickets"}
   # - {link: "https://forms.gle/uZMoTpM9yerQEppg7", text: "Aanmelden als spreker"}
   # - {link: "https://forms.gle/yF3zTG6zNPztTJDR7", text: "Become a speaker"}
-  # - {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties 2019"}
+  - {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2023", text: "Presentaties 2023"}
