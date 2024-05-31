@@ -32,6 +32,12 @@ Edit CNAME in root dir and change to 2023.foss4g.nl
 
 ![image](https://github.com/foss4gnl/2023.foss4g.nl/assets/582630/15f4da4e-9407-4ae6-bd74-b53a461217f6)
 
+
+## Setup GitHub Pages
+* GitHub: Settings https://github.com/foss4gnl/2024.foss4g.nl/settings/pages, setup Pages to point to main branch:
+  
+![image](https://github.com/foss4gnl/2023.foss4g.nl/assets/582630/d65779ee-230b-45e4-861c-b209a3031b40)
+
 That's it!
 
 ## Credits
