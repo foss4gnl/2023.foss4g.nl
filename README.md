@@ -3,6 +3,29 @@ This is the content for the website of the FOSS4GNL 2023 conference (to be) held
 Provincie Zeeland in Middelburg.
 Link: https://foss4g.nl
 
+## Creating a new website
+
+When organizing a new FOSS4GNL create a new website as follows. In the example 
+the new FOSS4G is in 2024, the previous in 2023. This is possible without leaving GitHub!
+All edits can be done on GitHub for the initial setup. Ok, for content local edits are preferred.
+
+### Set previous as a Template Repository
+Go to the settings and mark as templkate. See image:
+
+![image](https://github.com/foss4gnl/2023.foss4g.nl/assets/582630/7530c9a4-8374-4be1-8daf-ef2f2e7b5d69)
+
+### Create new Repository from Template Repo
+
+On GitHub: create a new repo called **foss4gnl/2024.foss4g.nl** 
+
+### Rename the CNAME for 2023.foss4g.nl.
+
+Edit CNAME in root dir and change to 2023.foss4g.nl
+
+### YourHosting CNAME changes
+
+* create  2023.foss4g.nl and point to GitHub like the CNAME 2021.foss4g.nl
+
 ## Credits
 The [2018-version of this website](https://2018.foss4g.nl) was originally made by Jasper Roest.
 For [the 2019 edition](https://2019.foss4g.nl) it was further developed by Tom Commandeur @tcommandeur et al 
